@@ -25,8 +25,8 @@ L'algorithme de la puissance itérée a convergé rapidement en 215 itérations 
 les pages les plus importantes sont principalement : 
     - la page 1 (score: 0.43768811), car 5 pages pointent vers elle, de plus ces pages sources ont très peu de liens sortants (3 liens au maximum), ce qui augmente le poids du lien vers la page 1.
 
-    - la page 8 (score: 0.35015049), car 
+    - la page 8 (score: 0.35015049), car 3 pages pointent vers elle
 
-    - la page 6 (score: 0.52522573), car 3 pages pointent vers elles mais son score est si élevé est uniquement grâce à la page 8 qui lui transmet toute son importance puisqu'elle est la seule page cible de la page 8. Ainsi, un score de 0.35015049 lui est transmis uniquement par la page 8.
+    - la page 6 (score: 0.52522573), car 3 pages pointent vers elle mais son score élevé est uniquement du à la page 8 qui lui transmet toute son importance puisqu'elle est la seule page cible de la page 8. Ainsi, un score de 0.35015049 lui est transmis uniquement par la page 8.
     
-    - la page 10 (score: 0.43768811),
+    - la page 10 (score: 0.43768811), car 5 pages pointent vers elle, et ces pages sources on un maximum de 3 liens sortants
