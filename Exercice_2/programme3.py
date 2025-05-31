@@ -11,12 +11,12 @@ from Exercice_1.programme1 import norme, plus_grnd_val_propre, calculer_Q
 
 
 
-def calculer_P(M, taille, alpha):
+def calculer_P(C, M, taille, alpha):
     # matrice n permettant de savoir le nombre de liens sortants de chaque page
     matrice_n = np.zeros(taille)
     for i in range(taille):
         for j in range(taille):
-            if M[i, j] == 1:
+            if C[i, j] == 1:
                 matrice_n[j] += 1
 
     P = np.zeros((taille, taille))
@@ -52,7 +52,8 @@ if __name__ == "__main__":
         print("Matrice Q : \n" , Q, "\n")
         
         # Calcul de P
-        P = calculer_P(Q, taille, 0.85)
+        P = calculer_P(C, Q, taille, 0.85)
+        print("Matrice P : \n", P, "\n")
 
         # Calcul du score avec le vecteur propre de P
         valeur_propre_P, vecteur_propre_P = plus_grnd_val_propre(P, taille, 1e-10)
