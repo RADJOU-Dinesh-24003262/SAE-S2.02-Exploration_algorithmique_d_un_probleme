@@ -13,11 +13,6 @@ def plus_grnd_val_propre(A, taille, e = 10**(-10)) :
     while norme(X - X_old) > e:
         X_old = X
         temp = A @ X_old
-        #print("X_old :", X_old)
-        #print("A:", A)
-        #print("temp :", temp)
-        #print("norme(temp) :", norme(temp))
-        #print("\n")
         X = temp/norme(temp)
         compteur += 1
     print("Nombre d'itérations :", compteur)
