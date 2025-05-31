@@ -44,3 +44,5 @@ En applicant la matrice de transition, les scores obtenues sont:
 - Page 5 : 0.36704972
 
 Les pages de 2 à 5 ont un score égal, leur points commun sont quelles ont toutes des liens sortants, tandis que la pages 1 avec un score plus élevé est un puit.
+
+///// Manque la justification que le vecteur de score est approximativement r = Pr //////

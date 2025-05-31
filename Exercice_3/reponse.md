@@ -35,3 +35,34 @@ temps d'execution :  0.0004374980926513672 secondes pour une précision de 1e-15
 marge d'erreur : 2.482534153247273e-16
 
 ```
+
+*Question 2 :*
+
+Ajout des Pages 15 et 16 qui sont des Hubs et des Pages 17 et 18 qui sont des autorités.
+La page 15 a des liens sortant vers (1, 5, 7, 8, 9, 10, 11, 17, 18)
+La page 16 a des liens sortant vers (1, 2, 6, 7, 8, 9)
+La page 17 a des liens entrant de (11, 12, 13, 14, 15)
+La page 18 a des liens entrant de (3, 4, 5, 15)
+
+Pour e = 1e-15
+        Graph d'origin|  Nouveau graph |  Changement
+    1  : 0.4011562    |  0.22128172    |  Diminution
+    2  : 0.21684119   |  0.22128172    |  Augmentation
+    3  : 0.21684119   |  0.22128172    |  Augmentation
+    4  : 0.21684119   |  0.22128172    |  Augmentation
+    5  : 0.21684119   |  0.22128172    |  Augmentation
+    6  : 0.4011562    |  0.40937119    |  Augmentation
+    7  : 0.21684119   |  0.22128172    |  Augmentation
+    8  : 0.21684119   |  0.22128172    |  Augmentation
+    9  : 0.21684119   |  0.22128172    |  Augmentation
+    10 : 0.4011562    |  0.22128172    |  Diminution
+    11 : 0.21684119   |  0.22128172    |  Augmentation
+    12 : 0.21684119   |  0.22128172    |  Augmentation
+    13 : 0.21684119   |  0.22128172    |  Augmentation
+    14 : 0.21684119   |  0.22128172    |  Augmentation
+    15 :              |  0.22128172    |
+    16 :              |  0.22128172    |
+    17 :              |  0.22128172    |
+    18 :              |  0.22128172    |
+
+Les pages aillant déjà un score élevé ont vu leurs score diminué après avoir eu plus de liens entrant (Pages: 1, 10), tandis que les autres pages avec un score de base moins haut ont sûbit une légère augmentation.
