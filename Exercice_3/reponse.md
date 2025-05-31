@@ -69,6 +69,8 @@ Les pages aillant déjà un score élevé ont vu leurs score diminué après avo
 
 *Question 3 :*
 
+Méthode : diminué l'importance d'une page pour que ses liens sortant ai plus d'importance
+
 Modification : Pages 15, suppression du lien vers page 10
 
 Pour e = 1e-15
@@ -93,3 +95,67 @@ Pour e = 1e-15
     18 : 0.22128172   | 0.20922059     |  Diminution
 
 Avec un seul lien enlevé, presque toutes les pages ont vu leurs score diminué, sauf la page 17. Vu que la page 15 a moins de liens sortant, sont impact sur la page 17 est donc plus important 
+
+*Question 4 :*
+
+```
+facteur d'amortissement = 0
+Nombre d'itérations : 2
+valeur propre : 1.0
+vecteur propre : [0.23570226 0.23570226 0.23570226 0.23570226 0.23570226 0.23570226
+ 0.23570226 0.23570226 0.23570226 0.23570226 0.23570226 0.23570226
+ 0.23570226 0.23570226 0.23570226 0.23570226 0.23570226 0.23570226]
+
+temps d'execution :  0.0009992122650146484 secondes pour une précision de  1e-15 entre l'ancien et le nouvel vecteur propre
+marge d'erreur : 0.0
+
+facteur d'amortissement = 0.2
+Nombre d'itérations : 11
+valeur propre : 1.0
+vecteur propre : [0.23014365 0.23014365 0.23014365 0.23014365 0.23014365 0.27617239
+ 0.23014365 0.23014365 0.23014365 0.23014365 0.23014365 0.23014365
+ 0.23014365 0.23014365 0.23014365 0.23014365 0.27617239 0.23014365]
+
+temps d'execution :  0.001001119613647461 secondes pour une précision de  1e-15 entre l'ancien et le nouvel vecteur propre
+marge d'erreur : 0.0
+
+facteur d'amortissement = 0.5
+Nombre d'itérations : 14
+valeur propre : 1.0
+vecteur propre : [0.22086305 0.22086305 0.22086305 0.22086305 0.22086305 0.33129458
+ 0.22086305 0.22086305 0.22086305 0.22086305 0.22086305 0.22086305
+ 0.22086305 0.22086305 0.22086305 0.22086305 0.33129458 0.22086305]
+
+temps d'execution :  0.0 secondes pour une précision de  1e-15 entre l'ancien et le nouvel vecteur propre
+marge d'erreur : 1.3311106448512297e-16
+
+facteur d'amortissement = 0.85
+Nombre d'itérations : 16
+valeur propre : 1.0
+vecteur propre : [0.20922059 0.20922059 0.20922059 0.20922059 0.20922059 0.38705809
+ 0.20922059 0.20922059 0.20922059 0.20922059 0.20922059 0.20922059
+ 0.20922059 0.20922059 0.20922059 0.20922059 0.38705809 0.20922059]
+
+temps d'execution :  0.0009989738464355469 secondes pour une précision de  1e-15 entre l'ancien et le nouvel vecteur propre
+marge d'erreur : 0.0
+
+facteur d'amortissement = 1
+Nombre d'itérations : 17
+valeur propre : 1.0
+vecteur propre : [0.20412415 0.20412415 0.20412415 0.20412415 0.20412415 0.40824829
+ 0.20412415 0.20412415 0.20412415 0.20412415 0.20412415 0.20412415
+ 0.20412415 0.20412415 0.20412415 0.20412415 0.40824829 0.20412415]
+```
+
+temps d'execution :  0.0010004043579101562 secondes pour une précision de  1e-15 entre l'ancien et le nouvel vecteur propre
+marge d'erreur : 8.326672684688674e-17
+
+
+Lorsque le facteur d'amortissement est bas (proche ou égal à 0), plus les vecteurs propre sont généralement plus haut, mais ils sont aussi (lorsque facteur = 0) égaux.
+Et dans le cas inverse, lorsque le facteur d'amortissement est haut (proche ou égal à 1), plus les vecteurs sont généralement plus bas, mais avec un écart plus grand entre eux.
+
+facteur = 0
+tout les vecteurs égal a : 0.23570226
+facteur = 1
+vecteurs les plus bas : 0.20412415
+vecteurs les plus haut : 0.40824829
