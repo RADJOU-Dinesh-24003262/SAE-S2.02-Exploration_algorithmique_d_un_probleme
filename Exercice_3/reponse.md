@@ -45,6 +45,7 @@ La page 17 a des liens entrant de (11, 12, 13, 14, 15)
 La page 18 a des liens entrant de (3, 4, 5, 15)
 
 Pour e = 1e-15
+```
         Graph d'origin|  Nouveau graph |  Changement
     1  : 0.4011562    |  0.22128172    |  Diminution
     2  : 0.21684119   |  0.22128172    |  Augmentation
@@ -64,6 +65,7 @@ Pour e = 1e-15
     16 :              |  0.22128172    |
     17 :              |  0.22128172    |
     18 :              |  0.22128172    |
+```
 
 Les pages aillant déjà un score élevé ont vu leurs score diminué après avoir eu plus de liens entrant (Pages: 1, 10), tandis que les autres pages avec un score de base moins haut ont sûbit une légère augmentation.
 
@@ -74,6 +76,7 @@ Méthode : diminué l'importance d'une page pour que ses liens sortant ai plus d
 Modification : Pages 15, suppression du lien vers page 10
 
 Pour e = 1e-15
+```
      Graph précédent  |  Nouveau Graph |  Changement
     1  : 0.22128172   | 0.20922059     |  Diminution
     2  : 0.22128172   | 0.20922059     |  Diminution
@@ -93,6 +96,7 @@ Pour e = 1e-15
     16 : 0.22128172   | 0.20922059     |  Diminution
     17 : 0.22128172   | 0.38705809     |  Augmentation
     18 : 0.22128172   | 0.20922059     |  Diminution
+```
 
 Avec un seul lien enlevé, presque toutes les pages ont vu leurs score diminué, sauf la page 17. Vu que la page 15 a moins de liens sortant, sont impact sur la page 17 est donc plus important 
 
@@ -145,10 +149,10 @@ valeur propre : 1.0
 vecteur propre : [0.20412415 0.20412415 0.20412415 0.20412415 0.20412415 0.40824829
  0.20412415 0.20412415 0.20412415 0.20412415 0.20412415 0.20412415
  0.20412415 0.20412415 0.20412415 0.20412415 0.40824829 0.20412415]
-```
 
 temps d'execution :  0.0010004043579101562 secondes pour une précision de  1e-15 entre l'ancien et le nouvel vecteur propre
 marge d'erreur : 8.326672684688674e-17
+```
 
 
 Lorsque le facteur d'amortissement est bas (proche ou égal à 0), plus les vecteurs propre sont généralement plus haut, mais ils sont aussi (lorsque facteur = 0) égaux.
