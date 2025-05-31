@@ -17,7 +17,7 @@ def plus_grnd_val_propre(A, taille, e = 10**(-10)) :
         compteur += 1
     print("Nombre d'itérations :", compteur)
     print("valeur propre :", norme(A @ X))
-    print("vecteur propre :", X, "\n")
+    print("vecteur propre :", X)
     return norme(A @ X), X
 
 def calculer_Q(C, taille):
