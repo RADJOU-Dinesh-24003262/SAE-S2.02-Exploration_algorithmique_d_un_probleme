@@ -10,25 +10,7 @@ parent_dir = os.path.abspath(os.path.join(current_dir, ".."))
 if parent_dir not in sys.path:
     sys.path.insert(0, parent_dir)
 from Exercice_1.programme1 import norme, plus_grnd_val_propre, calculer_Q
-
-
-
-def calculer_P(M, taille, alpha):
-    # matrice n permettant de savoir le nombre de liens sortants de chaque page
-    matrice_n = np.zeros(taille)
-    for i in range(taille):
-        for j in range(taille):
-            if M[i, j] == 1:
-                matrice_n[j] += 1
-
-    P = np.zeros((taille, taille))
-    for i in range(taille):
-        for j in range(taille):
-            if matrice_n[j] != 0:
-                P[i, j] = alpha*M[i,j] + (1 - alpha) / taille
-            else:
-                P[i, j] = 1 / taille
-    return P
+from Exercice_2.programme3 import calculer_P
 
 if __name__ == "__main__":
 
@@ -71,9 +53,10 @@ if __name__ == "__main__":
     print("Matrice Q : \n" , Q, "\n")
     
     # Calcul de P
-    P = calculer_P(Q, taille, 0.85)
+    P = calculer_P(C, Q, taille, 0.85)
+    print("Matrice P : \n", P, "\n")
 
-    for i in [1, 1e-2, 1e-5, 1e-10, 1e-15]: # à partir de 1e-16, l'algorithme ne converge pas assez (rapidement ou juste ne le permet pas) pour offrir cette précision
+    for i in [1, 1e-5, 1e-10]:
         # Calcul du score avec le vecteur propre de P
         debut = time.time()
         valeur_propre_P, vecteur_propre_P = plus_grnd_val_propre(P, taille, i)

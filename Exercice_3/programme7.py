@@ -10,25 +10,9 @@ parent_dir = os.path.abspath(os.path.join(current_dir, ".."))
 if parent_dir not in sys.path:
     sys.path.insert(0, parent_dir)
 from Exercice_1.programme1 import norme, plus_grnd_val_propre, calculer_Q
+from Exercice_2.programme3 import calculer_P
 
 
-
-def calculer_P(M, taille, alpha):
-    # matrice n permettant de savoir le nombre de liens sortants de chaque page
-    matrice_n = np.zeros(taille)
-    for i in range(taille):
-        for j in range(taille):
-            if M[i, j] == 1:
-                matrice_n[j] += 1
-
-    P = np.zeros((taille, taille))
-    for i in range(taille):
-        for j in range(taille):
-            if matrice_n[j] != 0:
-                P[i, j] = alpha*M[i,j] + (1 - alpha) / taille
-            else:
-                P[i, j] = 1 / taille
-    return P
 
 if __name__ == "__main__":
 
@@ -46,7 +30,7 @@ if __name__ == "__main__":
     Web[7 - 1]  = [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     Web[8 - 1]  = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     Web[9 - 1]  = [0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
-    Web[10 - 1] = [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0]
+    Web[10 - 1] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0]
     Web[11 - 1] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0]
     Web[12 - 1] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0]
     Web[13 - 1] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0]
@@ -72,9 +56,10 @@ if __name__ == "__main__":
     
     for i in [0, 0.2, 0.5, 0.85, 1]:
         # Calcul de P
-        P = calculer_P(Q, taille, i)
+        P = calculer_P(C, Q, taille, i)
+        print("Facteur d'amortissement alpha :", i)
 
-        for j in [1e-15]: # à partir de 1e-16, l'algorithme ne converge pas assez (rapidement ou juste ne le permet pas) pour offrir cette précision
+        for j in [1e-10]:
             # Calcul du score avec le vecteur propre de P
             debut = time.time()
             valeur_propre_P, vecteur_propre_P = plus_grnd_val_propre(P, taille, j)
