@@ -159,9 +159,6 @@ temps d'execution :  0.0009043216705322266 secondes pour une précision de  1e-1
 marge d'erreur : 6.715581611334766e-11
 ```
 
-temps d'execution :  0.0010004043579101562 secondes pour une précision de  1e-15 entre l'ancien et le nouvel vecteur propre
-marge d'erreur : 8.326672684688674e-17
-
 
 Lorsque le facteur d'amortissement est bas (proche ou égal à 0), plus les vecteurs propre sont généralement plus haut, mais ils sont aussi égaux (lorsque facteur = 0).  
 Et dans le cas inverse, lorsque le facteur d'amortissement est haut (proche ou égal à 1), plus les vecteurs sont généralement plus bas en moyenne, mais avec un écart plus grand entre eux.  
