@@ -66,3 +66,30 @@ Pour e = 1e-15
     18 :              |  0.22128172    |
 
 Les pages aillant déjà un score élevé ont vu leurs score diminué après avoir eu plus de liens entrant (Pages: 1, 10), tandis que les autres pages avec un score de base moins haut ont sûbit une légère augmentation.
+
+*Question 3 :*
+
+Modification : Pages 15, suppression du lien vers page 10
+
+Pour e = 1e-15
+     Graph précédent  |  Nouveau Graph |  Changement
+    1  : 0.22128172   | 0.20922059     |  Diminution
+    2  : 0.22128172   | 0.20922059     |  Diminution
+    3  : 0.22128172   | 0.20922059     |  Diminution
+    4  : 0.22128172   | 0.20922059     |  Diminution
+    5  : 0.22128172   | 0.20922059     |  Diminution
+    6  : 0.40937119   | 0.38705809     |  Diminution
+    7  : 0.22128172   | 0.20922059     |  Diminution
+    8  : 0.22128172   | 0.20922059     |  Diminution
+    9  : 0.22128172   | 0.20922059     |  Diminution
+    10 : 0.22128172   | 0.20922059     |  Diminution
+    11 : 0.22128172   | 0.20922059     |  Diminution
+    12 : 0.22128172   | 0.20922059     |  Diminution
+    13 : 0.22128172   | 0.20922059     |  Diminution
+    14 : 0.22128172   | 0.20922059     |  Diminution
+    15 : 0.22128172   | 0.20922059     |  Diminution
+    16 : 0.22128172   | 0.20922059     |  Diminution
+    17 : 0.22128172   | 0.38705809     |  Augmentation
+    18 : 0.22128172   | 0.20922059     |  Diminution
+
+Avec un seul lien enlevé, presque toutes les pages ont vu leurs score diminué, sauf la page 17. Vu que la page 15 a moins de liens sortant, sont impact sur la page 17 est donc plus important 
