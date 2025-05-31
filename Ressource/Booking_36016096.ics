@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Springshare//LibCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+DTSTART:20250604T063000Z
+DTEND:20250604T103000Z
+DTSTAMP:20250529T182500Z
+SUMMARY:Booking: Salle de travail 313 - dinesh radjou (dinesh.radjou@etu.univ-amu.fr)
+DESCRIPTION:Booking: Salle de travail 313\n\nTo cancel this booking visit: 
+ https://univ-amu.libcal.com/equipment/cancel?id=b1eccdf2d072\n
+LOCATION:Salle de travail 313
+UID:LibCal-Equipment-36016096
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
