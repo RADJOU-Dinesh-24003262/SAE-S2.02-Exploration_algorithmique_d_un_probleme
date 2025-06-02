@@ -52,12 +52,22 @@ if __name__ == "__main__":
 
     # Calcul de Q
     Q = calculer_Q(C, taille)
-    print("Matrice Q : \n" , Q, "\n")
+    #print("Matrice Q : \n" , Q, "\n")
+    print("Q :")
+    for row in Q:
+        for val in row:
+            print(f"{val:5.2}", end="  ")
+        print()
     
     for i in [0, 0.2, 0.5, 0.85, 1]:
         # Calcul de P
         P = calculer_P(C, Q, taille, i)
         print("Facteur d'amortissement alpha :", i)
+        #print("P :")
+        #for row in P:
+            #for val in row:
+                #print(f"{val:9.2}", end="  ")
+            #print()
 
         for j in [1e-10]:
             # Calcul du score avec le vecteur propre de P

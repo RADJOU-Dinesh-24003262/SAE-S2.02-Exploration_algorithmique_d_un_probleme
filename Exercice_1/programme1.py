@@ -69,7 +69,12 @@ if __name__ == "__main__":
 
     # Calcul de Q
     Q = calculer_Q(C, taille)
-    print("Matrice Q : \n" , Q, "\n")
+    #print("Matrice Q : \n" , Q, "\n")
+    print("Q :")
+    for row in Q:
+        for val in row:
+            print(f"{val:5.2}", end="  ")
+        print()
 
     # Calcul du score avec le vecteur propre de Q
     valeur_propre_Q, vecteur_propre_Q = plus_grnd_val_propre(Q, taille)

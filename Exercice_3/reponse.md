@@ -54,7 +54,8 @@ La page 18 a des liens entrant de (3, 4, 5, 15)
 
 ![Graphe pour la partie 3 question 2](https://media.discordapp.net/attachments/1377309792221007963/1378360924322140261/image.png?ex=683c5225&is=683b00a5&hm=59e4406155af3781ef7304d5e6ee2fac92e036d5cde63da3f92b15be8ba3658e&=&format=webp&quality=lossless&width=697&height=400 "Partie 3 question 2")
 
-Pour e = 1e-10
+Pour e = 1e-10 :
+```
     Graphe d'origine  |  Nouveau graphe|  Changement  
     1  : 0.46211057   |  0.36026096    |  Diminution  
     2  : 0.11406475   |  0.12278482    |  Augmentation  
@@ -74,6 +75,7 @@ Pour e = 1e-10
     16 :              |  0.05259868    |  
     17 :              |  0.2310204     |  
     18 :              |  0.22792565    |  
+```
 
 Les pages 1 et 10 ont connu une forte diminution de leur score cela est dû aux puits qui recueillent leur score des même pages sources que la page 1 et 10, ainsi les pages 1 et 10 partagent leur score avec les pages 18 et 17 qui sont des autorités. Les autorités ont un score moyen voire élevé grâce aux quantité de liens entrant qu'elles possèdent en baisant le score de leur "soeurs" (pages ayant une page source commune).  
 Les hubs (les pages 15 et 16) (qu'ils y aient un score élevé ou pas) n'apportent pas spécialement de score aux pages qu'ils pointent, car au vu de leur quantité de lien sortants, leur score est réparti. Ainsi, un l'influence est minime sur les pages "filles" (pages qu'ils repertorient ou pointent). On peut avoir cela à travers la page 2, grâce à l'ajout du hubs 16, la page a gagné environ 0.6 point de score que ça soit directement ou indirectement.
@@ -92,7 +94,8 @@ Ainsi, nous nous retrouvons avec ce graphe :
 
 ![Graphe pour la partie 3 question 3](https://media.discordapp.net/attachments/1377309792221007963/1378405282983444614/bWNIptcbsokkRUhb.png?ex=683c7b74&is=683b29f4&hm=de7d68af72872fb27853afc32e309e753a1230b159f88817062c6e2d157b9bd3&=&format=webp&quality=lossless&width=790&height=400 "Partie 3 question 3")
 
-Pour e = 1e-10
+Pour e = 1e-10 :
+```
      Graphe précédent | Nouveau Graphe |  Changement  
     1  : 0.36026096   | 0.38258594     |  Augmentation   
     2  : 0.12278482   | 0.13372787     |  Augmentation légère  
@@ -112,7 +115,7 @@ Pour e = 1e-10
     16 : 0.05259868   | 0.05870791     |  Augmentation légère  
     17 : 0.2310204    | 0.3240717      |  Augmentation **forte**  
     18 : 0.22792565   | 0.24955563     |  Augmentation  
-
+```
 Nous avons réussi à montrer notre point :  
 - La page 17 à augmenté son score de 9 points environ au détriment des pages 6 et 10  qui ont perdu chacune 5 points environ.  
 
