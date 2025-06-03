@@ -1,0 +1,2001 @@
+
+
+
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" class="path-node page-node-type-navigation-par-tuile current-path-public-culture-scientifique lang--fr">
+<head>
+  <meta charset="utf-8" />
+<script type="text/javascript">var _mtm = window._mtm = window._mtm || [];_mtm.push({'contentType': 'Page de navigation'});_mtm.push({'page_display_mode': 'Accès public'});_mtm.push({'language': 'fr'});_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});(function() {  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];  g.async=true; g.src='https://matomo.univ-amu.fr/js/container_5YshVVL1.js'; s.parentNode.insertBefore(g,s);})();</script>
+<link rel="icon" href="/modules/custom/amu_favicon/images/favicon-16x16.png" type="image/png" sizes="16x16" />
+<link rel="icon" href="/modules/custom/amu_favicon/images/favicon-32x32.png" type="image/png" sizes="32x32" />
+<link rel="icon" href="/modules/custom/amu_favicon/images/favicon-96x96.png" type="image/png" sizes="96x96" />
+<link rel="icon" href="/modules/custom/amu_favicon/images/favicon.svg" type="image/svg+xml" />
+<link rel="shortcut icon" href="/modules/custom/amu_favicon/images/favicon.svg" />
+<link rel="apple-touch-icon" href="/modules/custom/amu_favicon/images/apple-touch-icon.png" sizes="180x180" />
+<link rel="apple-touch-icon" href="/modules/custom/amu_favicon/images/apple-touch-icon-precomposed.png" sizes="180x180" />
+<link rel="apple-touch-icon" href="/modules/custom/amu_favicon/images/apple-touch-icon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon" href="/modules/custom/amu_favicon/images/apple-touch-icon-120x120-precomposed.png" sizes="120x120" />
+<link rel="apple-touch-icon" href="/modules/custom/amu_favicon/images/apple-touch-icon-152x152.png" sizes="152x152" />
+<link rel="apple-touch-icon" href="/modules/custom/amu_favicon/images/apple-touch-icon-152x152-precomposed.png" sizes="152x152" />
+<link rel="manifest" href="/modules/custom/amu_favicon/images/site.webmanifest" />
+<link rel="mask-icon" href="/modules/custom/amu_favicon/images/safari-pinned-tab.svg" color="#1f63de" />
+<link rel="msapplication-config" href="/modules/custom/amu_favicon/images/browserconfig.xml" />
+<meta rel="apple-mobile-web-app-title" content="amU" />
+<meta rel="msapplication-TileColor" color="#1f63de" />
+<link rel="canonical" href="https://www.univ-amu.fr/fr/public/culture-scientifique" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/core/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.univ-amu.fr/en/public/scientific-culture" />
+<link rel="alternate" hreflang="fr" href="https://www.univ-amu.fr/fr/public/culture-scientifique" />
+
+    <title>Culture scientifique | Aix Marseille Université</title>
+    <link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/align.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/fieldgroup.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/container-inline.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/clearfix.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/details.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/hidden.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/item-list.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/js.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/nowrap.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/position-container.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/reset-appearance.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/resize.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-counter.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-report-counters.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-report-general-info.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/tablesort.module.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/modules/custom/amu_copyright/css/amu_copyright.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/custom/amu_zurb/fontawesome/css/all.min.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/custom/amu_zurb/vendor/zurb/foundation/dist/css/foundation.min.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/custom/amu_zurb/css/amu_zurb_base.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/custom/amu_zurb/css/theme/amu_zurb_local_task.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/custom/amu_zurb/fonts/opensans.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/custom/amu_zurb/fonts/oswald.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/custom/amu_zurb/fonts/roboto.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/custom/amu_zurb/css/theme/status-messages.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/recherche.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/tuile.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/style.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/layout.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/block.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/view.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/navigation.css?swb1k7" />
+<link rel="stylesheet" media="print" href="/themes/amu/amu_www/css/print.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/libraries/megamenu/megamenu.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/breadcrumb.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/alert-info.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/amu_www_reveal.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/cookies.css?swb1k7" />
+<link rel="stylesheet" media="all" href="/themes/amu/amu_www/css/amu_www_special.css?swb1k7" />
+
+      
+
+        <link rel="apple-touch-icon" href="/core/misc/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/core/misc/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/core/misc/favicon-16x16.png">
+        <link rel="manifest" href="/core/misc/site.webmanifest">
+        <link rel="mask-icon" href="/core/misc/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="/core/misc/favicon.ico">
+        <meta name="msapplication-TileColor" content="#2b5797">
+        <meta name="msapplication-config" content="/core/misc/browserconfig.xml">
+        <meta name="theme-color" content="#14679e">
+
+        </head>
+<body class="navigation_par_tuile node-1054 role-anonymous">
+<a href="#main-content" class="visually-hidden focusable">
+  Aller au contenu principal
+</a>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="special-header">
+  <div class="special-header__container grid-x">
+    <p class="special-header__text">Découvrez notre nouveau site carrière </span></p>
+
+    <button id="btn-deploy" type="button" aria-label="Expand the block - Aix-Marseille University's video"><i
+      class="fa-thin fa-chevron-down"></i></button>
+    <button id="btn-close" type="button" aria-label="Close the block - Aix-Marseille University's video"><i
+        class="fa-thin fa-xmark"></i></button>
+    <div class="special-header__expanded-msg align-left grid-x special--hide">
+      <div class="cell large-5 text-center">
+        <div class="cell large-12"><a class="link-special"
+                                      href="https://carriere.univ-amu.fr/"
+                                      aria-label="Aix-Marseille University Career website"
+                                      target="_blank">
+                                        <div class="link-special__text">
+                                          Découvrez notre nouveau site carrière 
+                                        </div>
+                                        <div class="link-special__arrow">
+                                          <i class="fa-thin fa-arrow-right"></i>
+                                        </div>
+                                      </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="region-toolbar">
+    <div class="toolbar__wrapper">
+      <div class="grid-container">
+        <div class="grid-x">
+            <nav role="navigation" aria-labelledby="block-topmenu-menu" id="block-topmenu" class="block-topmenu system_menu_block:top-menu block cell auto">
+            
+  <h2 class="block-topmenu__title block__title visually-hidden" id="block-topmenu-menu">top menu</h2>
+  
+
+        
+              <ul region="toolbar" class="menu">
+              <li>
+        <a href="/fr" data-drupal-link-system-path="&lt;front&gt;">Accueil</a>
+              </li>
+          <li>
+        <a href="/fr/intramu" data-drupal-link-system-path="node/27">Intramu</a>
+              </li>
+          <li>
+        <a href="https://annuaire.univ-amu.fr/">Annuaire AMU</a>
+              </li>
+          <li>
+        <a href="https://carriere.univ-amu.fr" title="Recrutement">Recrutement</a>
+              </li>
+          <li>
+        <a href="/fr/public/hrs4r-0" data-drupal-link-system-path="node/5197">HRS4R</a>
+              </li>
+          <li>
+        <a href="/fr/public/civis-0" data-drupal-link-system-path="node/6295">CIVIS</a>
+              </li>
+          <li>
+        <a href="/fr/public/le-projet-we4lead" data-drupal-link-system-path="node/9751">WE4LEAD</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+
+
+<div id="block-reseauxsociaux" class="block-reseauxsociaux block_content:fddf4ddf-9a9c-4c11-a150-7e37aaabf05c block cell auto block-block-contentfddf4ddf-9a9c-4c11-a150-7e37aaabf05c">
+      
+        
+    <div class="block-reseauxsociaux__content block__content block-block-contentfddf4ddf-9a9c-4c11-a150-7e37aaabf05c__content">
+      <ul class="rs">
+    <li>
+      <a aria-label="Facebook" title="Facebook" class="rs__facebook" href="https://www.facebook.com/aixmarseilleuniversite/">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Instagram" title="Instagram" class="rs__instagram" href="https://www.instagram.com/univ_amu/">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Linkedin" title="Linkedin" class="rs__linkedin" href="https://www.linkedin.com/school/aix-marseille-universite/">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Bluesky" title="Bluesky" class="rs__bluesky" href="https://bsky.app/profile/univ-amu.fr">
+        <i class="fa-brands fa-bluesky"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Youtube" title="YouTube" class="rs__youtube" href="https://www.youtube.com/channel/UCqAJ4nmwJdjEweR1cNYPbmA">
+        <i class="fab fa-youtube"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Research gate" title="Research Gate" class="rs__research-gate" href="https://www.researchgate.net/institution/Aix-Marseille_Universite">
+        <i class="fab fa-researchgate"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="HAL - archives ouvertes" title="HAL - archives ouvertes AMU" class="rs__hal" href="https://hal-amu.archives-ouvertes.fr/">
+        <i class="fas fa-archive"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Boutique AMU" title="Boutique AMU" class="rs__boutique" href="https://boutique.univ-amu.fr/">
+        <i class="fas fa-tshirt"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Contact" title="Contact" class="rs__contact" href="https://tele-demandes.univ-amu.fr/">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+  </div>
+</div>
+
+
+
+<div class="language-switcher-language-url block-selecteurdelangue-2 language_block:language_interface block block-language-blocklanguage-interface" id="block-selecteurdelangue-2" role="navigation">
+      
+        
+    <div class="block-selecteurdelangue-2__content block__content block-language-blocklanguage-interface__content">
+          <ul region="toolbar"><li hreflang="en" data-drupal-link-system-path="node/1054"><a href="/en/public/scientific-culture" class="language-link" hreflang="en" data-drupal-link-system-path="node/1054">English</a></li><li hreflang="fr" data-drupal-link-system-path="node/1054" class="is-active" aria-current="page"><a href="/fr/public/culture-scientifique" class="language-link is-active" hreflang="fr" data-drupal-link-system-path="node/1054" aria-current="page">Français</a></li></ul>
+      </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="header">
+    <div class="grid-x">
+      <div class="large-12 cell">
+            <div class="grid-container">
+    <div class="grid-x custom-logo">
+      <div class="cell small-6">
+        <a href="https://www.univ-amu.fr/fr" title="Accueil" rel="home">
+          <img src="/themes/custom/amu_zurb/images/logo-amu.svg" alt="Accueil - Aix-Marseille Université"/>
+        </a>
+      </div>
+      <div class="cell small-2">
+        <a href="/fr/public/engagement-contre-les-violences-sexistes-et-sexuelles"
+           title="Dispositifs d'aide - Harcèlements, violences, racisme, prénom d'usage ">
+          <img src="/themes/amu/amu_www/images/logo-lgbti.svg"
+               alt="Journée mondiale de lutte contre l'homophobie et la transphobie "/>
+        </a>
+      </div>
+      <div class="cell small-2">
+        <a href="/fr/public/actualites/amu-decroche-la-troisieme-etoile-du-label-bienvenue-en-france"
+           title="Label Bienvenue en France ">
+          <img src="/themes/amu/amu_www/images/label_bienvenue.svg"
+               alt="Bienvenue en France "/>
+        </a>
+      </div>
+      <div class="cell small-2">
+        <a href="/fr/public/service-pour-le-respect-et-legalite"
+           title="Service pour le Respect et l'Egalité Aix Marseille Université ">
+          <img src="/themes/amu/amu_www/images/RESPECT_EGALITE_BLANC.svg"
+               alt="Service pour le Respect et l'Egalité Aix Marseille Université "/>
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+
+  
+
+      </div>
+    </div>
+  </div>
+
+  <div class="navigation">
+    <div class="navigation__wrapper">
+      <div class="grid-container">
+        <div class="grid-x">
+          <div class="large-12 cell">
+              <nav role="navigation" aria-labelledby="block-navigationprincipale-menu" id="block-navigationprincipale" class="block-navigationprincipale system_menu_block:main block">
+            
+  <h2 class="block-navigationprincipale__title block__title visually-hidden" id="block-navigationprincipale-menu">Navigation principale</h2>
+  
+
+        
+
+
+        
+                    <div class="megamenu">
+            <ul>
+        
+                    <li>
+                <a href="/fr" data-drupal-link-system-path="&lt;front&gt;">Université</a>
+                                            
+                    <ul>
+        
+                    <li>
+                <span title="Présentation">Présentation</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/presentation-de-luniversite" data-drupal-link-system-path="node/745">Aix-Marseille Université</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/organisation-daix-marseille-universite" data-drupal-link-system-path="node/746">Organisation</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/composantes-facultes-ecoles-instituts" title="Composantes" data-drupal-link-system-path="node/1319">Composantes</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/instituts-detablissement-interdisciplinaires-amu" title="Écoles graduées" data-drupal-link-system-path="node/8844">Instituts d&#039;établissement &amp; EURs</a>
+                            </li>
+                    <li>
+                <a href="https://imera.univ-amu.fr/" title="----------------------------------------">Institut d&#039;études avancées - Iméra</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/developpement-durable-citoyennete" title="Développement durable" data-drupal-link-system-path="node/196">Développement durable</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/biodivamu-0" title="Biodiversité" data-drupal-link-system-path="node/7209">Biodiversité</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/service-pour-le-respect-et-legalite" data-drupal-link-system-path="node/9927">Service pour le respect et l&#039;égalité </a>
+                            </li>
+                    <li>
+                <a href="/fr/public/mission-egalite-des-chances-amu" title="Égalité des Chances AMU" data-drupal-link-system-path="node/6908">Égalité des Chances AMU</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/egalite-femmes-hommes-lutte-contre-les-discriminations" data-drupal-link-system-path="node/310">Égalité F/H &amp; Lutte contre les discriminations</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/mediateur-de-luniversite" title="Médiateur de l&#039;université" data-drupal-link-system-path="node/1614">Médiateur de l&#039;université</a>
+                            </li>
+                    <li>
+                <a href="https://recueil-actes-administratifs.univ-amu.fr/publication" title="Recueil des actes administratifs">Recueil des actes administratifs</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/culture" title="Culture à l&#039;université">Culture à l&#039;université</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/culture-scientifique" title="Culture scientifique" data-drupal-link-system-path="node/1054" class="is-active" aria-current="page">Culture scientifique</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/le-patrimoine" title="Le patrimoine immobilier" data-drupal-link-system-path="node/1641">Patrimoine immobilier</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/patrimoine-scientifique-1" title="Patrimoine scientifique" data-drupal-link-system-path="node/5045">Patrimoine scientifique</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/nos-partenaires" data-drupal-link-system-path="node/267">Partenaires</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/recrutement-offres-demploi" title="Recrutement &amp; offres d&#039;emploi" data-drupal-link-system-path="node/2761">Recrutement &amp; offres d&#039;emploi</a>
+                            </li>
+                    <li>
+                <a href="https://boutique.univ-amu.fr/" title="Boutique AMU">Boutique AMU</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/tele-demandes-amu" title="Contact" data-drupal-link-system-path="node/1161">Contact</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Composantes">Composantes</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/allsh-faculte-des-arts-lettres-langues-sciences-humaines" title="Facultés des arts, lettres, langues, sciences humaines">ALLSH</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/cfmi-centre-de-formation-des-musiciens-intervenants" title="Centre de formation des musiciens intervenants">CFMI</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/ejcam-ecole-de-journalisme-et-de-communication-daix-marseille" title="Ecole de journalisme et de communication d&#039;Aix-Marseille">EJCAM</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/fds-faculte-des-sciences" title="Faculté des sciences">FDS</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/fdsp-faculte-de-droit-et-science-politique" title="Faculté de droit et science politique">FDSP</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/feg-faculte-deconomie-et-gestion" title="Faculté économie et gestion">FEG</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/fss-faculte-des-sciences-du-sport" title="Faculté des sciences du sport">FSS</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/iae-institut-dadministration-des-entreprises" title="Institut d&#039;administration des entreprises">IAE</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/impgt-institut-de-management-public-et-gouvernance-territoriale" title="Institut de management public et gouvernance territoriale">IMPGT</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/espe-ecole-superieure-du-professorat-et-de-leducation" title="Institut National Supérieur du Professorat et de l&#039;Éducation">INSPE</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/irt-institut-regional-du-travail" title="Institut régional du travail">IRT</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/iut-institut-universitaire-de-technologie-daix-marseille" title="Institut universitaire de technologie d&#039;Aix-Marseille">IUT</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/mmsh-maison-mediterraneenne-des-sciences-de-lhomme" title="Maison méditerranéenne des sciences de l&#039;homme">MMSH</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/pharma-faculte-de-pharmacie" title="Faculté de pharmacie">PHARMA</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/polytech-ecole-dingenieurs" title="Polytech Marseille">POLYTECH</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/institut-pytheas-observatoire-des-sciences-de-lunivers" title="Institut Pythéas - Observatoire des sciences de l&#039;univers">PYTHEAS</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/public/smpm-faculte-des-sciences-medicales-et-paramedicales" title="Faculté des sciences médicales et paramédicales">SMPM</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Initiative d&#039;excellence</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/la-fondation-amidex" title="Fondation universitaire amidex" data-drupal-link-system-path="node/8063">Fondation universitaire Amidex</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/appels-projets-en-cours-amidex" title="Appels à projets amidex" data-drupal-link-system-path="node/391">Appels à projets amidex</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/dispositifs-laureats-du-pia" data-drupal-link-system-path="node/4602">Dispositif lauréats France 2030 - PIA</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/instituts-detablissement-amu" title="Instituts d&#039;établissement" data-drupal-link-system-path="node/3073">Instituts d&#039;établissement</a>
+                            </li>
+                    <li>
+                <a href="https://imera.univ-amu.fr/en" title="Institut d&#039;études avancées - Iméra ">Institut d&#039;études avancées - Iméra </a>
+                            </li>
+                    <li>
+                <a href="/fr/public/le-cercle-club-des-erc-du-site-daix-marseille" data-drupal-link-system-path="node/392">Le CERCle - Club des ERC</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Instituts d&#039;établissement &amp; EURs">Instituts d&#039;établissement &amp; EURs</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/instituts-detablissement-amu" title="Instituts d&#039;établissement" data-drupal-link-system-path="node/3073">Instituts d&#039;établissement</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/ecoles-universitaires-de-recherche" title="Ecoles Universitaires de Recherche " data-drupal-link-system-path="node/8851">Ecoles Universitaires de Recherche </a>
+                            </li>
+                </ul>
+        
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <a href="/fr" data-drupal-link-system-path="&lt;front&gt;">Formation</a>
+                                            
+                    <ul>
+        
+                    <li>
+                <span>Offre de formation</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="https://formations.univ-amu.fr">Offre de formation AMU</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/formation-distance" title="Formation à distance" data-drupal-link-system-path="node/364">Formation à distance</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/sul-service-universitaire-des-langues" title="SUL - Service universitaire des Langues" data-drupal-link-system-path="node/7303">SUL - Service universitaire des Langues</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/apprentissage" title="Apprentissage" data-drupal-link-system-path="node/7165">Apprentissage</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/orientation-reorientation" data-drupal-link-system-path="node/516">Orientation et réorientation</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/observatoire-de-la-vie-etudiante" title="Enquêtes de satisfaction et de suivi" data-drupal-link-system-path="node/568">Enquêtes de satisfaction et de suivi</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/universite-du-temps-libre" title="Université du Temps Libre" data-drupal-link-system-path="node/1452">Université du Temps Libre</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/formation" title="Appels à projets Formation " data-drupal-link-system-path="node/381">Appels à projets Amidex</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/pia3-projets" title="Dispositifs lauréats du PIA" data-drupal-link-system-path="node/4597">Dispositifs lauréats France 2030 - PIA</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Formation professionnelle continue</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/service-formation-professionnelle-continue" title="Présentation de la FPC" data-drupal-link-system-path="node/60">Présentation du service For’Pro </a>
+                            </li>
+                    <li>
+                <a href="/fr/public/formations-courtes-qualifiantes-et-sur-mesure" data-drupal-link-system-path="node/168">Offre de Formations</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/evolution-professionnelle-aide-la-reconversion" data-drupal-link-system-path="node/167">Evolution Pro et aide à la reconversion </a>
+                            </li>
+                    <li>
+                <a href="/fr/public/conseil-financement" data-drupal-link-system-path="node/67">Conseil en financement</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/prestations-de-services" data-drupal-link-system-path="node/165">Prestations de services</a>
+                            </li>
+                    <li>
+                <a href="https://formulaires.univ-amu.fr/fr/public/espace-suggestion-reclamation" title="Espace suggestion&amp; réclamation Formation pro. continue">Suggestion / Réclamation</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="ORIENTATION - INSERTION PRO">ORIENTATION - INSERTION PRO</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/suio-orientation-insertion-entrepreneuriat-etudiant" title="Accueil SUIO" data-drupal-link-system-path="node/2162">Accueil SUIO</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/orientation-et-reorientation-etudiants" title="Orientation - réorientation" data-drupal-link-system-path="node/2020">Orientation - réorientation</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/insertion-professionnelle-etudiants" title="Insertion professionnelle" data-drupal-link-system-path="node/2022">Insertion professionnelle</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/start-et-creation-dentreprise" data-drupal-link-system-path="node/2333">Entrepreneuriat étudiant</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/metiers-et-debouches-e" title="Métiers &amp; Débouchés" data-drupal-link-system-path="node/1917">Métiers &amp; Débouchés</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/stages" data-drupal-link-system-path="node/531">Stages</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/espace-recruteurs" title="Espace recruteur" data-drupal-link-system-path="node/2736">Espace recruteur</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/insertion-professionnelle-des-etudiants-en-situation-de-handicap" title="Handicap" data-drupal-link-system-path="node/2819">Handicap</a>
+                            </li>
+                    <li>
+                <a href="https://formulaires.univ-amu.fr/fr/public/contact-suio" title="Contacter le SUIO">Contacter le SUIO</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Innovation pédagogique</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/la-formation-la-pedagogie-et-aux-outils-numeriques" data-drupal-link-system-path="node/1040">Formation à la pédagogie &amp; numérique</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-rendez-vous-du-cipe" data-drupal-link-system-path="node/536">Les rendez-vous du CIPE</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-evenements-du-cipe" data-drupal-link-system-path="node/537">Évènement du CIPE</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/candidater-sur-les-appels-projets" data-drupal-link-system-path="node/1021">Candidater sur les appels à projet</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/espaces-et-outils-numeriques-au-service-de-la-pedagogie" data-drupal-link-system-path="node/1045">Espaces et outils numériques</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/faq-cipe" data-drupal-link-system-path="node/3137">FAQ enseignant</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/foire-aux-questions-faq" data-drupal-link-system-path="node/487">FAQ étudiant</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Instituts d&#039;établissement &amp; EURs">Instituts d&#039;établissement &amp; EURs</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/instituts-detablissement-amu" title="Instituts d&#039;établissement" data-drupal-link-system-path="node/3073">Instituts d&#039;établissement</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/ecoles-universitaires-de-recherche" title="Ecoles Universitaires de Recherche " data-drupal-link-system-path="node/8851">Ecoles Universitaires de Recherche</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <a href="/fr" data-drupal-link-system-path="&lt;front&gt;">Scolarité</a>
+                                            
+                    <ul>
+        
+                    <li>
+                <span>S&#039;inscrire à l&#039;université</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/sinscrire-luniversite" title="S&#039;inscrire à l&#039;université " data-drupal-link-system-path="node/1412">Candidature / Inscription</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-calendriers-universitaires" title="Calendriers pédagogiques" data-drupal-link-system-path="node/181">Calendriers pédagogiques</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/etudes" data-drupal-link-system-path="node/205">Études </a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-diplomes" data-drupal-link-system-path="node/213">Les diplômes</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/contacts-des-services-de-scolarite" title="Contacts des services de scolarité" data-drupal-link-system-path="node/1410">Contacts des services de scolarité</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Situation de handicap">Situation de handicap</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/mission-handicap-amu" title="Mission handicap" data-drupal-link-system-path="node/214">Mission handicap</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-amenagements" title="Les aménagements" data-drupal-link-system-path="node/220">Les aménagements</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/vos-demarches" title="Vos démarches" data-drupal-link-system-path="node/218">Vos démarches</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/liens-utiles" title="Liens utiles &amp; partenaires" data-drupal-link-system-path="node/221">Liens utiles &amp; partenaires</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <a href="/fr" data-drupal-link-system-path="&lt;front&gt;">Recherche</a>
+                                            
+                    <ul>
+        
+                    <li>
+                <span>Politique Scientifique</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/publication-science-ouverte" title=" Publication &amp; Science Ouvert" data-drupal-link-system-path="node/7938"> Publication &amp; Science Ouverte</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/une-universite-de-recherche-intensive" data-drupal-link-system-path="node/223">Université de recherche intensive</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/linnovation-et-la-valorisation-de-la-recherche-un-axe-de-developpement-prioritaire" data-drupal-link-system-path="node/224">Innovation &amp; Valorisation de la recherche</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/mission-interdisciplinarite" title="Interdisciplinarité" data-drupal-link-system-path="node/6039">Interdisciplinarité</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/contrat-detablissement-2018-2022" data-drupal-link-system-path="node/225">Contrat d&#039;établissement 2018/2022</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/hrs4r-0" title="Projet HRS4R" data-drupal-link-system-path="node/5197">Projet HRS4R</a>
+                            </li>
+                    <li>
+                <a href="https://euraxess.univ-amu.fr/fr" title="EURAXESS - Chercheurs internationaux">EURAXESS - Chercheurs internationaux</a>
+                            </li>
+                    <li>
+                <a href="https://guide-recherche.univ-amu.fr/" title="Guide de la Recherche">Guide de la Recherche</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Structuration de la recherche</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/direction-de-la-recherche-et-de-la-valorisation" title="Direction de la Recherche et de la Valorisation" data-drupal-link-system-path="node/5769">Direction Recherche et Valorisation</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-structures-de-recherche" data-drupal-link-system-path="node/100">Les structures de recherche</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/instances-de-la-recherche" data-drupal-link-system-path="node/341">Les instances de la recherche</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/ethique-et-integrite-scientifique" data-drupal-link-system-path="node/331">Éthique &amp; Intégrité scientifique</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/modele-animal-aix-marseille-universite-signe-une-charte-de-transparence" title="Ethique en expérimentation animale " data-drupal-link-system-path="node/9182">Ethique en expérimentation animale</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/innovation-valorisation-plateformes" title="Innovation, valorisation &amp; plateformes" data-drupal-link-system-path="node/9676">Innovation, valorisation &amp; plateformes</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/culture-scientifique" data-drupal-link-system-path="node/1054" class="is-active" aria-current="page">Culture et patrimoine scientifiques</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/europe-international" data-drupal-link-system-path="node/248">Europe &amp; International</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/habilitation-diriger-des-recherches-hdr" data-drupal-link-system-path="node/970">Habilitation à diriger des recherches</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/direction-de-la-recherche-et-de-la-valorisation-drv" data-drupal-link-system-path="node/262">Votre interlocuteur : la DRV</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Initiative d&#039;excellence</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/la-fondation-amidex" title="Fondation universitaire Amidex" data-drupal-link-system-path="node/8063">Fondation universitaire Amidex</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/appels-projets-en-cours-amidex" title="Appels à projets Amidex" data-drupal-link-system-path="node/391">Appels à projets Amidex</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/dispositifs-laureats-du-pia" data-drupal-link-system-path="node/4602">Dispositifs lauréats France 2030 - PIA</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/instituts-detablissement-interdisciplinaires-amu" title="Instituts d&#039;établissement " data-drupal-link-system-path="node/8844">Instituts d&#039;établissement &amp; EURs</a>
+                            </li>
+                    <li>
+                <a href="https://imera.univ-amu.fr/" title="Institut d&#039;études avancées - Iméra">Institut d&#039;études avancées - Iméra</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/le-cercle-club-des-erc-du-site-daix-marseille" title="Le CERCle - Club des ERC" data-drupal-link-system-path="node/392">Le CERCle - Club des ERC</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Financements</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/intramu/appels-projets-internes-amu" data-drupal-link-system-path="node/954">Internes AMU</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/appels-projets-en-cours-amidex" title="Amidex" data-drupal-link-system-path="node/391">Amidex</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/appels-projets-region" data-drupal-link-system-path="node/956">Région</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/appels-projets-nationaux" data-drupal-link-system-path="node/957">Nationaux</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/programme-horizon-europe" title="Programme H2020" data-drupal-link-system-path="node/5508">Programme Horizon Europe</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/europe-hors-h2020-international" title="Europe (hors H2020) &amp; International" data-drupal-link-system-path="node/1321">Europe (hors H2020) &amp; International</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/financer-sa-these" data-drupal-link-system-path="node/442">Doctorants &amp; Post doc.</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Formation doctorale</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/devenir-doctorant" data-drupal-link-system-path="node/444">Devenir Doctorant</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/etre-doctorant" data-drupal-link-system-path="node/460">Être Doctorant</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/doctorat" data-drupal-link-system-path="node/473">Suivi, diplômes et valorisation</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/poursuivre-sa-carriere" data-drupal-link-system-path="node/613">Poursuivre sa carrière</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/vie-etudiante" data-drupal-link-system-path="node/470">Vie pratique &amp; vie étudiante</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/vos-interlocuteurs" data-drupal-link-system-path="node/837">Vos interlocuteurs</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <a href="/fr" title="Interdisciplinarité(s)" data-drupal-link-system-path="&lt;front&gt;">Interdisciplinarité(s)</a>
+                                            
+                    <ul>
+        
+                    <li>
+                <span title="Mission Interdisciplinarité(s)">Mission Interdisciplinarité(s)</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/actualites?field_evt_structure_target_id=106" title="Actualités de l&#039;interdisciplinarité">Actualités de l&#039;interdisciplinarité(s)</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/strategie-de-la-mission-interdisciplinarite" title="Stratégie de la Mission" data-drupal-link-system-path="node/6019">Stratégie de la Mission</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/organisation-de-la-mission-interdisciplinarite" title="Organisation de la mission" data-drupal-link-system-path="node/6020">Organisation de la Mission</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/lobservatoire-interdisciplinaire" title="L&#039;observatoire de l&#039;interdisciplinarité" data-drupal-link-system-path="node/6021">L&#039;observatoire de l&#039;interdisciplinarité(s)</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Appels à projets">Appels à projets</span>
+                            </li>
+                    <li>
+                <span title="Projets en incubation">Projets en incubation</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/projets-en-incubation" title="Découvrir les projets" data-drupal-link-system-path="node/6927">Découvrir les projets</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Ressources">Ressources</span>
+                            </li>
+                    <li>
+                <span title="Tout un monde en mouvement">Tout un monde en mouvement</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/tout-un-monde-en-mouvement" title="Découvrir nos rencontres" data-drupal-link-system-path="node/6928">Découvrir nos rencontres</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <a href="/fr" data-drupal-link-system-path="&lt;front&gt;">Entreprise</a>
+                                            
+                    <ul>
+        
+                    <li>
+                <span>Relations AMU - Entreprises</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/devenir-partenaire-damu" data-drupal-link-system-path="node/266">Devenir partenaire d&#039;AMU</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/espace-fournisseur" data-drupal-link-system-path="node/865">Espace fournisseur</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/nos-partenaires" title="Nos partenaires" data-drupal-link-system-path="node/267">Nos partenaires</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Collaborer et Innover</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/creer-ou-sassocier-une-chaire" data-drupal-link-system-path="node/268">Créer ou s&#039;associer à une chaire</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/innovation-et-valorisation" data-drupal-link-system-path="node/244">Innovation &amp; valorisation</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-projets-collaboratifs-europeens-public-prive" data-drupal-link-system-path="node/1386">Programmes européens, recherche et innovation</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/instituts-detablissement-amu" title="Instituts d&#039;établissement" data-drupal-link-system-path="node/3073">Instituts d&#039;établissement</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Former</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/evolution-professionnelle" data-drupal-link-system-path="node/856">Evolution professionnelle</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/former-vos-collaborateurs" data-drupal-link-system-path="node/847">Former vos collaborateurs</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Soutenir AMU</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/devenir-mecene" data-drupal-link-system-path="node/269">Devenir mécène</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/taxe-dapprentissage" data-drupal-link-system-path="node/270">Taxe d&#039;apprentissage</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Alumni - Réseaux d&#039;anciens</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/devenir-membre" data-drupal-link-system-path="node/275">Devenir membre</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/communaute-et-ressources-alumni" data-drupal-link-system-path="node/276">Communauté &amp; ressources</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/portraits-dalumni" data-drupal-link-system-path="node/289">Portraits d&#039;Alumni</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <a href="/fr" data-drupal-link-system-path="&lt;front&gt;">International</a>
+                                            
+                    <ul>
+        
+                    <li>
+                <span title="L&#039;international à AMU">L&#039;international à AMU</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/dri-direction-des-relations-internationales" title="Direction des Relations Internationales" data-drupal-link-system-path="node/770">Direction des Relations Internationales</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/universites-et-reseaux-partenaires" title="Universités partenaires" data-drupal-link-system-path="node/5853">Universités et réseaux partenaires</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-diplomes-en-partenariat-international-dpi" title="DPI : Diplômes en Partenariat International" data-drupal-link-system-path="node/1564">Diplômes en Partenariat International</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/erasmus-un-programme-aux-multiples-opportunites" title="Programmation Erasmus" data-drupal-link-system-path="node/2646">Programme Erasmus+</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/le-reseau-tethys" title="Téthys" data-drupal-link-system-path="node/5775">Téthys</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/amu-membre-de-lalliance-internationale-u7" data-drupal-link-system-path="node/9600">U7+</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/europe-international" title="L&#039;Europe et l&#039;international de la Recherche" data-drupal-link-system-path="node/248">L&#039;Europe et l&#039;international de la Recherche</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/presentation-du-bureau-de-bruxelles" title="Représentation à Bruxelles" data-drupal-link-system-path="node/2688">Bureau AMU à Bruxelles</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/actualites?field_evt_structure_target_id=31" title="Actualités">Actualités</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/relations-internationales-contacts" title="Contacts" data-drupal-link-system-path="node/4000">Contacts</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Projets de formation">Projets de formation</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/montage-de-projets-loffre-de-service-amu" title="Offre de servies de la DRI" data-drupal-link-system-path="node/5863">Offre de services de la DRI</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/international-mediterranee" title="Projet Amidex" data-drupal-link-system-path="node/383">Projet Amidex</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/instituts-detablissement-interdisciplinaires-amu" title="Instituts d&#039;établissement &amp; EURs" data-drupal-link-system-path="node/8844">Instituts d&#039;établissement &amp; EURs</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/pavillon-des-projets" title="Pavillon des projets" data-drupal-link-system-path="node/6227">Pavillon des projets</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="CIVIS - Université Civique Européenne">CIVIS</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/civis-une-universite-civique-europeenne" title="Université Civique Européenne" data-drupal-link-system-path="node/1442">À propos de CIVIS</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/civis-amu" title="CIVIS &amp; AMU" data-drupal-link-system-path="node/5745">CIVIS &amp; AMU</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-open-labs-civis" title="CIVIS &amp; la société civile" data-drupal-link-system-path="node/5732">CIVIS &amp; la société civile</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/civis-la-recherche" title="Civis &amp; la Recherche" data-drupal-link-system-path="node/5748">CIVIS &amp; la Recherche</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/actualites?field_evt_structure_target_id=101" title="Actualités CIVIS">Actualités CIVIS</a>
+                            </li>
+                    <li>
+                <a href="https://civis.eu/fr" title="Site officiel de CIVIS">Site officiel de CIVIS</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Venir à AMU">Venir à AMU</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/decouvrir-amu" title="Découvrir AMU" data-drupal-link-system-path="node/6141">Découvrir AMU</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/offre-de-formation" title="Offre de formation" data-drupal-link-system-path="node/6154">Notre offre de formation</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/logement">Trouver un logement</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/demarches" title="Démarches" data-drupal-link-system-path="node/6182">Démarches</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/dispositifs-daccueil" title="Dispositifs d&#039;accueil" data-drupal-link-system-path="node/6192">Dispositifs d&#039;accueil</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/frais-et-les-aides-financieres" title="Frais et aides financières" data-drupal-link-system-path="node/6197">Bourses d’études</a>
+                            </li>
+                    <li>
+                <a href="https://euraxess.univ-amu.fr/fr" title="EURAXESS - Chercheurs internationaux">Chercheurs internationaux – EURAXESS</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/contacter-la-dri" title="Contacter la DRI" data-drupal-link-system-path="node/9289">Contacter la DRI</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Partir à l&#039;étranger</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/en-mobilites-detudes" title="MOBILITÉ D&#039;ÉTUDES AU SEMESTRE" data-drupal-link-system-path="node/4820">Mobilité d&#039;études au semestre</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/mobilite-courte" title="Mobilité courte" data-drupal-link-system-path="node/9608">Mobilité courte</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/stages-letranger" title="Faire un stage à l&#039;étranger" data-drupal-link-system-path="node/9614">Stage à l&#039;étranger</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-diplomes-en-partenariat-international-dpi" title="Double diplôme " data-drupal-link-system-path="node/1564">Double diplôme </a>
+                            </li>
+                    <li>
+                <a href="/fr/public/assistanat-et-lectorat" data-drupal-link-system-path="node/55">Programme d&#039;assistant FLE</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/contact-dri-mobilite" title="Contacts de la DRI " data-drupal-link-system-path="node/9243">Contacts de la DRI </a>
+                            </li>
+                </ul>
+        
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <a href="/fr" data-drupal-link-system-path="&lt;front&gt;">Vie des campus</a>
+                                            
+                    <ul>
+        
+                    <li>
+                <span title="Cœur de Campus">Cœur de Campus</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/le-cube" title="Cube" data-drupal-link-system-path="node/2484"> Le Cube</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/hexagone" title="Hexagone" data-drupal-link-system-path="node/2479">Hexagone</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Vie Culturelle</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/culture" title="La culture à l&#039;université" data-drupal-link-system-path="node/288">La culture à l&#039;université</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-ensembles-amu" title="Les ensembles musicaux AMU" data-drupal-link-system-path="node/1013">Les ensembles musicaux AMU</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/universite-du-temps-libre" title="Université du Temps Libre" data-drupal-link-system-path="node/1452">Université du Temps Libre</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-arts-par-discipline" title="Pratiques artistiques étudiantes" data-drupal-link-system-path="node/3751">Les arts par discipline</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/culture-et-initiatives-etudiantes" data-drupal-link-system-path="node/242">Initiatives étudiantes &amp; culture</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/artistes-de-haut-niveau" title="Etudiant(e) Artiste à besoins particuliers" data-drupal-link-system-path="node/241">Etudiant(e) Artiste à besoins particuliers</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/culture-scientifique" data-drupal-link-system-path="node/1054" class="is-active" aria-current="page">Culture et patrimoine scientifiques</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/pacteamu" data-drupal-link-system-path="node/230">Bons plans culture</a>
+                            </li>
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/actualites?field_evt_thematique_target_id=4" title="L&#039;Agenda Culturel">L&#039;Agenda Culturel</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Vie sportive">Vie sportive</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/bonus-sport" title="Bonus Sport">Bonus Sport</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/pack-sport" title="Pack Sport" data-drupal-link-system-path="node/625">Pack Sport</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/sports-de-competition" title="Sports de compétition" data-drupal-link-system-path="node/626">Sports de compétition</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/sportifs-de-haut-niveau" title="Sportifs de haut-niveau" data-drupal-link-system-path="node/627">Sportifs de haut-niveau</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Vie associative</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/associations-etudiantes" data-drupal-link-system-path="node/163">Liste des associations</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/aide-au-fonctionnement-et-la-creation-dune-association" title="Création d&#039;une association" data-drupal-link-system-path="node/172">Création d&#039;une association</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/domiciliation-dune-association" data-drupal-link-system-path="node/173">Domiciliation</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/hebergement-dune-association" data-drupal-link-system-path="node/174">Hébergement d&#039;une association</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/aide-aux-developpements-des-initiatives-etudiantes-fsdie" data-drupal-link-system-path="node/159">Aide aux projets FSDIE</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/organiser-un-evenement-au-sein-de-luniversite" data-drupal-link-system-path="node/175">Organiser un événement</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/soutien-la-vie-etudiante" title="Amidex soutient la vie étudiante" data-drupal-link-system-path="node/252">Amidex soutient la vie étudiante</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Vie pratique &amp; Aide aux projets</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/la-cvec-amu" title="Financements CVEC" data-drupal-link-system-path="node/3623">Financements CVEC</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/aide-aux-developpements-des-initiatives-etudiantes-fsdie" data-drupal-link-system-path="node/159">FSDIE projets</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/aide-sociale-fsdie" data-drupal-link-system-path="node/152">FSDIE Social</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/emplois-etudiants" data-drupal-link-system-path="node/236">Jobs étudiants</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/logements" data-drupal-link-system-path="node/138">Logement</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/mes-premiers-pas-luniversite" title="Mes premiers pas à l’université" data-drupal-link-system-path="node/6901">Mes premiers pas à l’université</a>
+                            </li>
+                    <li>
+                <a href="https://www.crous-aix-marseille.fr/restauration/">Restauration</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/service-de-sante-universitaire" title="Santé" data-drupal-link-system-path="node/8314">Santé</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/services-et-outils-numeriques" data-drupal-link-system-path="node/554">Services et outils numériques</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/situation-de-handicap" data-drupal-link-system-path="node/229">Situation de handicap</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/transports-et-deplacements" data-drupal-link-system-path="node/8496">Transports</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <a href="/fr" title="Culture" data-drupal-link-system-path="&lt;front&gt;">Culture</a>
+                                            
+                    <ul>
+        
+                    <li>
+                <span>Présentation</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/la-culture-luniversite" title="Direction Culture et Société" data-drupal-link-system-path="node/227">Direction Culture et Société</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/comission-culture-et-societe" title="Commission culture et société" data-drupal-link-system-path="node/6427">Commission culture et société</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/culture-scientifique-1" title="DRV – cellule culture scientifique" data-drupal-link-system-path="node/256">DRV – cellule culture scientifique</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/reseau-des-referents-de-culture-scientifique-daix-marseille-universite" title="Réseau des référents culture scientifique" data-drupal-link-system-path="node/6342">Réseau des référents culture scientifique</a>
+                            </li>
+                    <li>
+                <a href="https://utl.univ-amu.fr/" title="Université du temps libre">Université du temps libre</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/partenaires-culturels" title="Partenaires" data-drupal-link-system-path="node/6445">Partenaires</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Programmation et lieux culturels</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="https://www.univ-amu.fr/fr/public/actualites?field_evt_structure_target_id=100" title="Actualités">Actualités</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/bons-plans-culture" title="Pacte&#039;AMU" data-drupal-link-system-path="node/10462">Bons plans culture</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/evenements-0" title="Evénements phares" data-drupal-link-system-path="node/6313">Evénements phares</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/programmation-2022-2023" title="Programmation 2023-2024" data-drupal-link-system-path="node/8658">Programmation 2023-2024</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Pratique et création artistique</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/artistes-de-haut-niveau" title="Etudiant(e) Artiste à besoins particuliers" data-drupal-link-system-path="node/241">Etudiant(e) Artiste à besoins particuliers</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/bonus-culture" title="Bonus Culture" data-drupal-link-system-path="node/240">Bonus Culture</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-ensembles-amu" title="Ensembles artistiques" data-drupal-link-system-path="node/1013">Ensembles artistiques</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/les-arts-par-discipline" title="Ateliers artistiques par discipline" data-drupal-link-system-path="node/3751">Pratiquer</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/culture-et-initiatives-etudiantes" title="Initiatives étudiantes" data-drupal-link-system-path="node/242">Initiatives étudiantes</a>
+                            </li>
+                    <li>
+                <a href="https://theatre-vitez.com/" title="Théâtre Antoine Vitez">Théâtre Antoine Vitez</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Sciences en partage">Sciences en partage</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/actions-educatives-culture-scientifique" title="Actions scolaires " data-drupal-link-system-path="node/1106">Actions scolaires </a>
+                            </li>
+                    <li>
+                <a href="/fr/public/monter-un-projet-de-culture-scientifique" title="Boîte à projets" data-drupal-link-system-path="node/6348">Boîte à projets</a>
+                            </li>
+                    <li>
+                <a href="/fr/public/formation-la-mediation-scientifique" title="Formation à la médiation scientifique " data-drupal-link-system-path="node/6338">Formation à la médiation scientifique </a>
+                            </li>
+                    <li>
+                <a href="/fr/public/recherche-scinces-et-societe" title="Recherche science et société" data-drupal-link-system-path="node/6446">Recherche science et société </a>
+                            </li>
+                    <li>
+                <a href="https://scienceotheque.univ-amu.fr/" title="Science-o-thèque ">Science-o-thèque </a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Patrimoine scientifique et artistique">Patrimoine scientifique et artistique</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="/fr/public/decouverte-du-patrimoine-scientifique" title="Découverte du patrimoine" data-drupal-link-system-path="node/6375">Découverte du patrimoine </a>
+                            </li>
+                    <li>
+                <a href="/fr/public/partenaires-reseaux-et-base-de-donnees" title="Partenaires, réseaux et bases de données " data-drupal-link-system-path="node/6376">Partenaires, réseaux et bases de données </a>
+                            </li>
+                    <li>
+                <a href="/fr/public/collections" data-drupal-link-system-path="node/5313">Collections</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <a href="/fr" data-drupal-link-system-path="&lt;front&gt;">Bibliothèques</a>
+                                            
+                    <ul>
+        
+                    <li>
+                <span>Trouver une bibliothèque </span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/bibliotheques-universitaires" title="Toutes les bibliothèques">Toutes les bibliothèques</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/bibliotheques-universitaires?f%5B0%5D=discipline%3A204" title="Arts, lettres, langues, sciences humaines">Arts, lettres, langues, sciences humaines</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/bibliotheques-universitaires?f%5B0%5D=discipline%3A205" title="Droit">Droit</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/bibliotheques-universitaires?f%5B0%5D=discipline%3A206" title="Économie">Économie</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/bibliotheques-universitaires?f%5B0%5D=discipline%3A208" title="Santé">Santé</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/bibliotheques-universitaires?f%5B0%5D=discipline%3A209" title="Sciences">Sciences</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/autres-bibliotheques-reseau-amu" title=" Autres bibliothèques du réseau AMU">Autres bibliothèques du réseau AMU</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/horaires-bu">Horaires des BU</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/facebook" title="Les BU sur les réseaux sociaux">Les BU sur les réseaux sociaux</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span>Emprunter des documents</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="https://catalogue.univ-amu.fr/cgi-bin/koha/opac-user.pl" title="Faire une suggestion d&#039;achat">Faire une suggestion d&#039;achat</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/vos-services/emprunter-reserver-documents" title="Emprunter un document">Emprunter/réserver des documents </a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/vos-services/emprunter-materiel-audiovisuel" title="Emprunter une tablette ou du matériel audiovisuel">Emprunter du matériel audiovisuel</a>
+                            </li>
+                    <li>
+                <a href="https://catalogue.univ-amu.fr/cgi-bin/koha/opac-user.pl" title="Prolonger mes prêts">Prolonger mes prêts</a>
+                            </li>
+                    <li>
+                <a href="https://formulaires.univ-amu.fr/fr/public/pret-entre-bibliotheques-service-payant" title="Faire venir un document par le PEB">Faire venir un document par le PEB</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Utiliser les services">Utiliser les services</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="https://univ-amu.libanswers.com/" title="Besoin d&#039;aide ? ">Besoin d&#039;aide ? </a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/vos-services/se-former-bu" title="Se former à la BU">Se former avec les BU </a>
+                            </li>
+                    <li>
+                <a href="https://univ-amu.libcal.com/calendar?cid=8704&amp;t=g&amp;d=0000-00-00&amp;cal=8704&amp;inc=0" title="M&#039;inscrire à un atelier en petit groupe">Formations sur inscription libre </a>
+                            </li>
+                    <li>
+                <a href="https://formulaires.univ-amu.fr/fr/public/rendez-vous-bibliothecaire" title="Prendre rendez-vous avec un(e) bibliothécaire">Prendre rendez-vous avec un(e) bibliothécaire</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/vos-services/copier-imprimer-scanner" title="Copier, imprimer, scanner">Copier, imprimer, scanner</a>
+                            </li>
+                    <li>
+                <a href="https://univ-amu.libcal.com/" title="Utiliser les salles de travail en groupe">Réserver une salle de travail en groupe </a>
+                            </li>
+                    <li>
+                <a href="https://depot-theses.univ-amu.fr/guichet" title="Déposer ma thèse">Déposer ma thèse</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.fr/fr/vos-services/demander-quitus" title="Demander un quitus">Demander un quitus</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.libguides.com/gettingstarted" title="Getting started at the AMU librairies ! ">Getting started at the AMU librairies ! </a>
+                            </li>
+                </ul>
+        
+                            </li>
+                    <li>
+                <span title="Trouver de la documentation">Trouver de la documentation</span>
+                                            
+                    <ul>
+        
+                    <li>
+                <a href="https://univ-amu.summon.serialssolutions.com/#!/" title="Outil de découverte">Outil de découverte</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.libguides.com/?b=s" title="Guides des thématiques">Ressources par disciplines &amp; tutoriels </a>
+                            </li>
+                    <li>
+                <a href="https://catalogue.univ-amu.fr/" title="Catalogue des BU d&#039;AMU">Catalogue des BU d&#039;AMU</a>
+                            </li>
+                    <li>
+                <a href="https://bu.univ-amu.libguides.com/az.php" title="Ressources électroniques de A à Z">Ressources électroniques de A à Z</a>
+                            </li>
+                    <li>
+                <a href="https://sh2hh6qx2e.search.serialssolutions.com/ejp/index.html?libHash=SH2HH6QX2E" title="Revues">Revues</a>
+                            </li>
+                    <li>
+                <a href="https://sujets-examens-bu.univ-amu.fr/" title="Sujets d&#039;examens">Sujets d&#039;examens</a>
+                            </li>
+                    <li>
+                <a href="https://hal-amu.archives-ouvertes.fr/" title="HAL AMU">HAL AMU</a>
+                            </li>
+                    <li>
+                <a href="https://odyssee.univ-amu.fr/" title="Bibliothèques patrimoniale Odyssée">Bibliothèque patrimoniale Odyssée</a>
+                            </li>
+                </ul>
+        
+                            </li>
+                </ul>
+        
+                            </li>
+                </ul>
+                </div>
+    
+
+
+
+  </nav>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="search">
+    <div class="search__wrapper">
+      <div class="grid-container">
+        <div class="grid-x">
+          <div class="large-12 cell">
+              
+
+
+
+<div id="block-amublockresearchformblock" class="block-amublockresearchformblock amu_block_research_form_block block block-amu-block-research-form-block">
+      
+        
+    <div class="block-amublockresearchformblock__content block__content block-amu-block-research-form-block__content">
+          
+<div class="form-recherche">
+  <form class="amu-bloc-recherche-form" data-drupal-selector="amu-bloc-recherche-form" action="/fr/public/culture-scientifique" method="post" id="amu-bloc-recherche-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item form-type-textfield js-form-type-textfield form-item-search-api-fulltext js-form-item-search-api-fulltext">
+      
+        <input placeholder="Que recherchez-vous ?" aria-label="Que recherchez-vous ?" data-drupal-selector="edit-search-api-fulltext" type="text" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="60" maxlength="128" class="form-text" />
+
+        </div>
+<input autocomplete="off" data-drupal-selector="form-s7djt2mkoxjilqwj-mr1haqdu-mjtzxyjxqjero93oc" type="hidden" name="form_build_id" value="form-S7djt2mkOXJIlQwJ-MR1hAqdu_MJtZXyJXQJEro93Oc" />
+<input data-drupal-selector="edit-amu-bloc-recherche-form" type="hidden" name="form_id" value="amu_bloc_recherche_form" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Recherche" class="button button--primary js-form-submit form-submit" />
+</div>
+
+</form>
+
+</div>
+      </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <div class="content grid-container">
+    <div class="grid-x">
+            <main id="main" class="large-12 cell" role="main">
+        <a id="main-content"></a>
+                <section>
+            
+
+
+
+<div id="block-amu-www-page-title" class="block-amu-www-page-title page_title_block block block-page-title-block">
+      
+        
+    <div class="block-amu-www-page-title__content block__content block-page-title-block__content">
+          
+  <h1><span>Culture scientifique</span>
+</h1>
+
+
+      </div>
+</div>
+
+
+
+<div id="block-amu-www-content" class="block-amu-www-content system_main_block block block-system-main-block">
+      
+        
+    <div class="block-amu-www-content__content block__content block-system-main-block__content">
+          <article>
+
+  
+    
+
+  
+  <div>
+    
+      <ul class="grid-x grid-margin-x" >
+              <li class="cell small-12 medium-6 display-5" >
+          
+<article  class="tuile">
+
+  <div >
+                    <a href="/fr/public/grands-evenements">
+                    <div class="tuile__illustration">
+          
+            <div class="tuile__tuile-illustration"><div>
+  
+  
+            <div class="image__media-image">
+            <img loading="lazy" src="/system/files/2019-02/DRV-tuile_grand_evenement.jpg" width="760" height="475" alt="tuile grand evenement" />
+
+    </div>
+      
+</div>
+</div>
+      
+        </div>
+        <span  class="tuile__titre">Grands événements</span>
+
+        <span  class="tuile__sous-titre">Tout public</span>
+
+      </a>
+      <span class="hide edit-alias-language">fr</span>
+  </div>
+        
+</article>
+
+        </li>
+              <li class="cell small-12 medium-6 display-5" >
+          
+<article  class="tuile">
+
+  <div >
+                    <a href="/fr/public/actions-educatives-culture-scientifique">
+                    <div class="tuile__illustration">
+          
+            <div class="tuile__tuile-illustration"><div>
+  
+  
+            <div class="image__media-image">
+            <img loading="lazy" src="/system/files/2019-10/DRV_tuile_actions_%C3%A9ducatives.jpg.png" width="760" height="475" alt="Actions éducatives" />
+
+    </div>
+      
+</div>
+</div>
+      
+        </div>
+        <span  class="tuile__titre">Actions éducatives</span>
+
+        <span  class="tuile__sous-titre">Culture scientifique </span>
+
+      </a>
+      <span class="hide edit-alias-language">fr</span>
+  </div>
+        
+</article>
+
+        </li>
+              <li class="cell small-12 medium-6 display-5" >
+          
+<article  class="tuile">
+
+  <div >
+              <a href="https://scienceotheque.univ-amu.fr/">
+                <div class="tuile__illustration">
+          
+            <div class="tuile__tuile-illustration"><div>
+  
+  
+            <div class="image__media-image">
+            <img loading="lazy" src="/system/files/2019-04/DRV-tuile_vid%C3%A9os_expos_bds.jpg" width="760" height="475" alt="tuile vidéos expos bds" />
+
+    </div>
+      
+</div>
+</div>
+      
+        </div>
+        <span  class="tuile__titre">Science-o-thèque </span>
+
+        <span  class="tuile__sous-titre">Vidéos, BD, jeux</span>
+
+      </a>
+      <span class="hide edit-alias-language">fr</span>
+  </div>
+        
+</article>
+
+        </li>
+              <li class="cell small-12 medium-6 display-5" >
+          
+<article  class="tuile">
+
+  <div >
+                    <a href="/fr/public/patrimoine-scientifique-1">
+                    <div class="tuile__illustration">
+          
+            <div class="tuile__tuile-illustration"><div>
+  
+  
+            <div class="image__media-image">
+            <img loading="lazy" src="/system/files/2019-04/DRV-tuile_patrimoine_scientifique.jpg" width="1583" height="990" alt="tuile patrimoine scientifique " />
+
+    </div>
+      
+</div>
+</div>
+      
+        </div>
+        <span  class="tuile__titre">Patrimoine scientifique</span>
+
+        <span  class="tuile__sous-titre">Collections universitaires</span>
+
+      </a>
+      <span class="hide edit-alias-language">fr</span>
+  </div>
+        
+</article>
+
+        </li>
+              <li class="cell small-12 medium-6 display-5" >
+          
+<article  class="tuile">
+
+  <div >
+                    <a href="/fr/public/culture-scientifique-1">
+                    <div class="tuile__illustration">
+          
+            <div class="tuile__tuile-illustration"><div>
+  
+  
+            <div class="image__media-image">
+            <img loading="lazy" src="/system/files/2019-10/DRV_tuile_culture_scientifique.png" width="760" height="475" alt="Culture scientifique" />
+
+    </div>
+      
+</div>
+</div>
+      
+        </div>
+        <span  class="tuile__titre">Culture scientifique</span>
+
+        <span  class="tuile__sous-titre">Mission, acteurs et démarche</span>
+
+      </a>
+      <span class="hide edit-alias-language">fr</span>
+  </div>
+        
+</article>
+
+        </li>
+              <li class="cell small-12 medium-6 display-5" >
+          
+<article  class="tuile">
+
+  <div >
+                    <a href="/fr/public/culture-scientifique-enseignants-chercheurs">
+                    <div class="tuile__illustration">
+          
+            <div class="tuile__tuile-illustration"><div>
+  
+  
+            <div class="image__media-image">
+            <img loading="lazy" src="/system/files/2019-01/DRV-diffusion_de_la_culture_scientifique_0.JPG" width="760" height="475" alt="diffusion de la culture scientifique" />
+
+    </div>
+      
+</div>
+</div>
+      
+        </div>
+        <span  class="tuile__titre">Culture scientifique</span>
+
+        <span  class="tuile__sous-titre">Enseignants-Chercheurs</span>
+
+      </a>
+      <span class="hide edit-alias-language">fr</span>
+  </div>
+        
+</article>
+
+        </li>
+              <li class="cell small-12 medium-6 display-5" >
+          
+<article  class="tuile">
+
+  <div >
+                    <a href="/fr/public/appels-de-culture-scientifique">
+                    <div class="tuile__illustration">
+          
+            <div class="tuile__tuile-illustration"><div>
+  
+  
+            <div class="image__media-image">
+            <img loading="lazy" src="/system/files/2023-12/NEC2023_GEP%20%281%29_%C2%A9EleaRopiot.jpg" width="5873" height="3908" alt="Grande expérience participative 2023" />
+
+    </div>
+      
+</div>
+</div>
+      
+        </div>
+        <span  class="tuile__titre">Appels à participation</span>
+
+        <span  class="tuile__sous-titre">personnels AMU</span>
+
+      </a>
+      <span class="hide edit-alias-language">fr</span>
+  </div>
+        
+</article>
+
+        </li>
+          </ul>
+  
+  </div>
+
+</article>
+
+      </div>
+</div><nav role="navigation" aria-labelledby="block-amu-www-footer-menu" id="block-amu-www-footer" class="block-amu-www-footer system_menu_block:footer block">
+            
+  <h2 class="block-amu-www-footer__title block__title visually-hidden" id="block-amu-www-footer-menu">Footer menu</h2>
+  
+
+        
+
+
+        <div class="cell small-12 medium-6">
+  <ul class="menu vertical medium-horizontal">
+                  <li class="">
+          <a href="/fr/public/espace-fournisseur" title="Espace fournisseur" data-drupal-link-system-path="node/865">Espace Fournisseurs</a>
+                  </li>
+              <li class="">
+          <a href="/fr/public/mentions-legales" data-drupal-link-system-path="node/1014">Mentions légales</a>
+                  </li>
+              <li class="">
+          <a href="/fr/public/traceurs-et-cookies" data-drupal-link-system-path="node/6422">Traceurs et Cookies</a>
+                  </li>
+              <li class="">
+          <a href="/fr/public/donnees-personnelles-et-saisine-du-dpo" data-drupal-link-system-path="node/6425">Données personnelles</a>
+                  </li>
+              <li class="">
+          <a href="/fr/public/recrutement-offres-demploi" data-drupal-link-system-path="node/2761">Recrutement</a>
+                  </li>
+              <li class="">
+          <a href="/fr/public/declaration-accessibilite" data-drupal-link-system-path="node/9786">Accessibilité : non conforme </a>
+                  </li>
+          </ul>
+        
+
+
+  </ul>
+</div>
+  </nav>
+
+
+        </section>
+      </main>
+          </div>
+  </div>
+
+  <div class="bottom_navigation">
+    <div class="grid-container">
+      <div class="grid-x grid-margin-x">
+        <div class="large-12 cell">
+          <nav role="navigation" aria-labelledby="-menu">
+            
+  <h2 class="visually-hidden" id="-menu"></h2>
+  
+
+        
+
+
+
+<div id="block-reseauxsociaux-2" class="block-reseauxsociaux-2 block_content:fddf4ddf-9a9c-4c11-a150-7e37aaabf05c block block-block-contentfddf4ddf-9a9c-4c11-a150-7e37aaabf05c">
+      
+        
+    <div class="block-reseauxsociaux-2__content block__content block-block-contentfddf4ddf-9a9c-4c11-a150-7e37aaabf05c__content">
+      <ul class="rs">
+    <li>
+      <a aria-label="Facebook" title="Facebook" class="rs__facebook" href="https://www.facebook.com/aixmarseilleuniversite/">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Instagram" title="Instagram" class="rs__instagram" href="https://www.instagram.com/univ_amu/">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Linkedin" title="Linkedin" class="rs__linkedin" href="https://www.linkedin.com/school/aix-marseille-universite/">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Bluesky" title="Bluesky" class="rs__bluesky" href="https://bsky.app/profile/univ-amu.fr">
+        <i class="fa-brands fa-bluesky"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Youtube" title="YouTube" class="rs__youtube" href="https://www.youtube.com/channel/UCqAJ4nmwJdjEweR1cNYPbmA">
+        <i class="fab fa-youtube"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Research gate" title="Research Gate" class="rs__research-gate" href="https://www.researchgate.net/institution/Aix-Marseille_Universite">
+        <i class="fab fa-researchgate"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="HAL - archives ouvertes" title="HAL - archives ouvertes AMU" class="rs__hal" href="https://hal-amu.archives-ouvertes.fr/">
+        <i class="fas fa-archive"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Boutique AMU" title="Boutique AMU" class="rs__boutique" href="https://boutique.univ-amu.fr/">
+        <i class="fas fa-tshirt"></i>
+      </a>
+    </li>
+    <li>
+      <a aria-label="Contact" title="Contact" class="rs__contact" href="https://tele-demandes.univ-amu.fr/">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+  </div>
+</div>
+  </nav>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="footer">
+    <div class="grid-container">
+      <div class="grid-x grid-margin-x">
+        <div class="large-12 cell">
+            
+
+
+
+<div id="block-copyrightblock" class="block-copyrightblock amu_copyright_block block block-amu-copyright-block">
+      
+        
+    <div class="block-copyrightblock__content block__content block-amu-copyright-block__content">
+          
+<div class="copyright">
+      ©2025 - Aix-Marseille Université
+    <ul class="copyright__list">
+                          </ul>
+</div>
+
+      </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+<a aria-label="Retour en haut de page" href="/" class="scroll-top-trigger"></a>
+
+  </div>
+
+
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"fr\/","currentPath":"node\/1054","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"3594729f8ffe18cb51dc5deca021a11b059e93ded0b9f63dc01e680874cd67a9"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/sites/default/files/languages/fr_tnAH020thEO1wfebTCdi9_lAGeCdqLbxNM4GdD6IQww.js?swb1k7"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.4.6"></script>
+<script src="/core/misc/drupal.js?v=10.4.6"></script>
+<script src="/core/misc/drupal.init.js?v=10.4.6"></script>
+<script src="/themes/amu/amu_www/js/global_amu_www.js?v=1.x"></script>
+<script src="/themes/amu/amu_www/libraries/megamenu/megamenu.js?v=1.x"></script>
+<script src="/themes/amu/amu_www/js/scroll-top.js?v=1.x"></script>
+<script src="/themes/amu/amu_www/js/content.filter.js?v=1.x"></script>
+<script src="/themes/amu/amu_www/js/edit-tuile.js?v=1.x"></script>
+<script src="/themes/amu/amu_www/js/amu_www_special.js?v=1.x"></script>
+<script src="/themes/amu/amu_www/js/alter_url.js?v=1.x"></script>
+<script src="/themes/custom/amu_zurb/js/app.js?v=6.9.0"></script>
+<script src="/themes/custom/amu_zurb/vendor/zurb/foundation/dist/js/foundation.min.js?v=6.9.0"></script>
+<script src="/themes/custom/amu_zurb/js/amu_paragraph_dev_warning.js?v=10.4.6"></script>
+<script src="/themes/custom/amu_zurb/js/paragraph-table.js?v=10.4.6"></script>
+
+</body>
+</html>
