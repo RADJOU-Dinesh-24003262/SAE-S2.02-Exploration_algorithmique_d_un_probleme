@@ -41,12 +41,9 @@ if __name__ == "__main__":
 
     taille = len(Web)
     
-    # Convertion de la liste en matrice numpy
-    Matrice_adjacente = np.array(Web)
-    print("Matrice adjacente :\n", Matrice_adjacente, "\n")
-
-    # Calcul de la transposée pour C
-    C = Matrice_adjacente.transpose()
+    # Convertion matrice en array (numpy)
+    # Le programme donne déjà la matrice transposée
+    C = np.array(Web)
     print("Matrice C :\n", C, "\n")
 
     # Calcul de Q
