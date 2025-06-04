@@ -12,9 +12,9 @@ if parent_dir not in sys.path:
 from Exercice_1.Algo_puis_iter_V1 import norme, plus_grnd_val_propre, calculer_Q
 from Exercice_2.Algo_puis_iter_V2 import calculer_P
 
-fichier1 = "../Ressource/Exploration_site/youtube.com/youtube.txt"
-fichier2 = "../Ressource/Exploration_site/univ-amu.fr/amu.txt"
-fichier3 = "../Ressource/Exploration_site/riotgames.com/riotgames.txt"
+fichier1 = "Ressource/Exploration_site/youtube.com/youtube.txt"
+fichier2 = "Ressource/Exploration_site/univ-amu.fr/amu.txt"
+fichier3 = "Ressource/Exploration_site/riotgames.com/riotgames.txt"
 
 with open(fichier1) as ytb :
     #print(ytb.read())
