@@ -21,20 +21,23 @@ C = M
 P = calculer_P(C, len(C), 0.85)
 
 # Calcul du score avec le vecteur propre de P
-valeur_propre_P, vecteur_propre_P = plus_grnd_val_propre(P, len(C), 1e-5)
+valeur_propre_P, vecteur_propre_P = plus_grnd_val_propre(P, len(C), 1e-10)
 r = vecteur_propre_P
 #Verification
-print("marge d'erreur :", norme((P @ r) - r))
+print("marge d'erreur :", norme((P @ r) - r), "\n")
 
+print("Top 10 des noeuds les plus importants :")
 # Trouver les 10 plus grandes valeurs avec leurs indices
 plus_grandes = heapq.nlargest(10, enumerate(vecteur_propre_P), key=lambda x: x[1])
 print("plus grandes valeur", plus_grandes)
 for i in range(len(plus_grandes)):
-    print(Id[plus_grandes[i][0]])
+    print("Noeud en position : ", i, "  avec comme Identifiant dans la matrice : ",Id[plus_grandes[i][0]])
 
+# Noeud avec le Meuilleur score
 api = Api()
 node = api.query('node/' + str(Id[(vecteur_propre_P.tolist()).index(max(vecteur_propre_P))]))
 
+print("\nValeur du noeud le plus important")
 # Affichage des données principales
 print("Nom :", node.tags().get("name", "Pas de nom"))
 print("Latitude :", node.lat())
@@ -42,9 +45,9 @@ print("Longitude :", node.lon())
 print("Tags :", node.tags())
 
 # Somme des colonnes
-somme_colonnes = P.sum(axis=0)
-print("Sommes des colonnes :", somme_colonnes)
+# somme_colonnes = P.sum(axis=0)
+# print("Sommes des colonnes :", somme_colonnes)
 
 # Vérification stochastique (colonne)
-est_stochastique = np.allclose(somme_colonnes, 1.0)
-print("La matrice est stochastique par colonne :", est_stochastique)
+# est_stochastique = np.allclose(somme_colonnes, 1.0)
+# print("La matrice est stochastique par colonne :", est_stochastique)

@@ -1,4 +1,8 @@
 # Partie 4 : PageRank - version itérative, analyse
+## *Question1 :*
+# *à faire :*
+
+
 ## *Question2 :*
 
 ### *Réseau routier : Gaston Berger*

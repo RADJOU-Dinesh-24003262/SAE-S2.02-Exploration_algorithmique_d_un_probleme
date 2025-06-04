@@ -22,11 +22,12 @@ C = M
 P = calculer_P(C, len(C), 0.85)
 
 # Calcul du score avec le vecteur propre de P
-valeur_propre_P, vecteur_propre_P = plus_grnd_val_propre(P, len(C), 1e-5)
+valeur_propre_P, vecteur_propre_P = plus_grnd_val_propre(P, len(C), 1e-10)
 r = vecteur_propre_P
 #Verification
-print("marge d'erreur :", norme((P @ r) - r))
+print("marge d'erreur :", norme((P @ r) - r), "\n")
 
+print("Top 10 des noeuds les plus importants :")
 # Trouver les 10 plus grandes valeurs avec leurs indices
 plus_grandes = heapq.nlargest(10, enumerate(vecteur_propre_P), key=lambda x: x[1])
 for i in range(len(plus_grandes)):
@@ -41,10 +42,11 @@ print("\n"+"Valeur du noeud le plus important")
 print("Nom :", node.tags().get("name", "Pas de nom"))
 print("Latitude :", node.lat())
 print("Longitude :", node.lon())
-print("Tags :", node.tags())
+print("Tags :", node.tags(), "\n")
 
 # Trouver les 10 plus petites valeurs avec leurs indices
 plus_grandes = heapq.nsmallest(10, enumerate(vecteur_propre_P), key=lambda x: x[1])
+print("Top 10 des noeuds les moins importants :")
 for i in range(len(plus_grandes)):
     print("Noeud en position : ", len(Id)-i, "  avec comme Identifiant dans la matrice : ",Id[plus_grandes[i][0]])
 
@@ -53,7 +55,7 @@ api = Api()
 node2 = api.query('node/' + str(Id[(vecteur_propre_P.tolist()).index(min(vecteur_propre_P))]))
 
 # Affichage des données principales de la node avec le plus petit vecteur propre
-print("\n"+"Valeur du noeud le plus important")
+print("\n"+"Valeur du noeud le moins important")
 print("Nom :", node2.tags().get("name", "Pas de nom"))
 print("Latitude :", node2.lat())
 print("Longitude :", node2.lon())

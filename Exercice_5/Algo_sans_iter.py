@@ -6,11 +6,14 @@ import numpy as np
 
 #det(Q −λIN) = 0
 
-
-Q = [0]*14
+#mais étant donné que la matrice P est stochastique la somme des colonnes est égale à 1, ainsi que lambda
+#donc nous aons : det(P - I) = 0
+P = [0]*14
 for i in range(14):
-    Q[i] = [0]*14
-    
-I = np.identity(len(Q))
-print(I)
-print(I*2)
+   P[i] = [0]*14
+P = np.array(P)
+
+I = np.identity(len(P))
+
+#Ainsi, nous devons calculer directement le vecteur propre avec AX = λX => AX = X
+#Nous devons utiliser le pivot de Gauss pour résoudre cette équation

@@ -14,7 +14,7 @@ def calculer_P(C, taille, alpha):
     matrice_n = np.zeros(taille)
     for i in range(taille):
         for j in range(taille):
-            if C[i, j] > 0 :#and i != j
+            if C[i, j] > 0 : #and i != j :
                 matrice_n[j] += C[i, j]
 
     P = np.zeros((taille, taille))
