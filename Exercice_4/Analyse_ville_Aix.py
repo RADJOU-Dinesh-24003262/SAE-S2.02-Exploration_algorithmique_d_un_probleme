@@ -4,8 +4,8 @@ import os
 import heapq
 from OSMPythonTools.api import Api
 
-M = np.load("Exercice_4\\Ex4_data\\Gaston_Berger\\413 avenue Gaston Berger, Aix en Provence, France_Matrice.npy")
-Id = np.load("Exercice_4\\Ex4_data\\Gaston_Berger\\413 avenue Gaston Berger, Aix en Provence, France_Id_Noeud.npy")
+M = np.load("Exercice_4/Ex4_data/Gaston_Berger/413 avenue Gaston Berger, Aix en Provence, France_Matrice.npy")
+Id = np.load("Exercice_4/Ex4_data/Gaston_Berger/413 avenue Gaston Berger, Aix en Provence, France_Id_Noeud.npy")
 
 # Ajoute le dossier parent ("SAE 2.02") au chemin Python
 current_dir = os.path.dirname(__file__)

@@ -1,4 +1,5 @@
 import numpy as np
+import sys
 
 def norme(X) : 
     somme_carr = 0
@@ -22,11 +23,12 @@ def plus_grnd_val_propre(A, taille, e = 10**(-10)) :
 
 def calculer_Q(C, taille):
     ## matrice n permettant de savoir le nombre de liens sortants de chaque page
-    #matrice_n = np.zeros(taille)
-    #for i in range(taille):
-    #    for j in range(taille):
-    #        if C[i, j] == 1:
-    #            matrice_n[j] += 1
+    matrice_n = np.zeros(taille)
+    for i in range(taille):
+        for j in range(taille):
+            if C[i, j] == 1:
+                matrice_n[j] += 1
+    #print(matrice_n)
     ## matrice Q permettant de savoir le poids de chaque lien
     #Q = np.zeros((taille, taille))
     #for i in range(taille):
@@ -39,10 +41,15 @@ def calculer_Q(C, taille):
     Q = np.zeros_like(C, dtype=float)
     for j in range(n):
         col_sum = C[:, j].sum()
+
         if col_sum != 0:
             Q[:, j] = C[:, j] / col_sum  # Normalisation
         else:
-            Q[:, j] = 1.0 / n  # Cas dangling
+            Q[:, j] = 0
+        #    Q[:, j] = 1.0 / n  # Cas dangling
+        if matrice_n[j] != col_sum :
+            print("aaaa   ",col_sum, matrice_n[j])
+            #sys.exit()
     return Q
 
 if __name__ == "__main__":
