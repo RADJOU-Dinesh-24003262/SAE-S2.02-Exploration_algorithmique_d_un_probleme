@@ -15,8 +15,8 @@ if parent_dir not in sys.path:
 from Exercice_1.Algo_puis_iter_V1 import norme, plus_grnd_val_propre, calculer_Q
 from Exercice_2.Algo_puis_iter_V2 import calculer_P
 
-# Calcul de la transposée pour C
-C = M.transpose()
+# Calcul de la transposée pour C // Faux calculer la transposer a cette endroit donne de mauvaise valeur
+C = M
 
 # Calcul de P directement à partir de C
 P = calculer_P(C, len(C), 0.85)
