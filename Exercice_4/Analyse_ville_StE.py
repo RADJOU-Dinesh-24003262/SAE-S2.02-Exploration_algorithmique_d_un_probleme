@@ -1,6 +1,9 @@
 import numpy as np
 import sys
 import os
+from OSMPythonTools.api import Api
+import heapq
+
 M = np.load("Exercice_4\\Ex4_data\\Saint_Etienne\\Saint-Etienne, France_Matrice.npy")
 Id = np.load("Exercice_4\\Ex4_data\\Saint_Etienne\\Saint-Etienne, France_Id_Noeud.npy")
 # Ajoute le dossier parent ("SAE 2.02") au chemin Python
@@ -25,13 +28,6 @@ valeur_propre_P, vecteur_propre_P = plus_grnd_val_propre(P, len(C), 1e-5)
 r = vecteur_propre_P
 #Verification
 print("marge d'erreur :", norme((P @ r) - r))
-
-from OSMPythonTools.api import Api
-
-#Id[vecteur_propre_P.index(max(vecteur_propre_P))]
-
-import heapq
-
 
 # Trouver les 10 plus grandes valeurs avec leurs indices
 plus_grandes = heapq.nlargest(10, enumerate(vecteur_propre_P), key=lambda x: x[1])
