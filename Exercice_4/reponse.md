@@ -45,4 +45,6 @@ Tags : {}
 
 Comme on peut le voir avec cette copie du terminal, nous extractons de la matrice les 10 noeuds avec les plus grands vecteurs propres, et les 10 avec les plus petit. On analyse aussi les données fournis de noeuds "extrême" par une librairie relié a OpenStreet Map.
 
-Parmis les 10 noeuds les plus "grands", on a 3 Rond-Point et 7 intersections dont 2 d'entres elles sont directements relié a un route importante (routes avec beaucoup de voie, donc beaucoup de circulation), et les autres sont relativements proches de route importante
+Parmis les 10 noeuds les plus "grands", on a 3 Rond-Point et 7 intersections dont 2 d'entres elles sont directements relié a un route importante (routes avec beaucoup de voie, donc beaucoup de circulation), et les autres sont relativements proches de route importante.
+
+Lors de la mise en place de l'analyse des données, nous avons remarquer que certain liens dans la matrice avait un point plus important que d'autre (valeur supérieur à 1), ce qui indique que certain liens/routes sont sont contabilisé comme plus important/performant, après quelque recherche suplémentaire, nous avons trouvé que c'est liens avec un poids plus important était les plus grandes routes (routes en jaune/orange/rouge sur OpenStreet Map), comme le périphérique et l'autoroute.
