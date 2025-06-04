@@ -29,16 +29,32 @@ print("marge d'erreur :", norme((P @ r) - r))
 
 # Trouver les 10 plus grandes valeurs avec leurs indices
 plus_grandes = heapq.nlargest(10, enumerate(vecteur_propre_P), key=lambda x: x[1])
-print("plus grandes valeur", plus_grandes)
 for i in range(len(plus_grandes)):
-    print(Id[plus_grandes[i][0]])
+    print("Noeud en position : ", i, "  avec comme Identifiant dans la matrice : ",Id[plus_grandes[i][0]])
 
+# Recherche la node avec le plus grand vecteur propre
 api = Api()
 node = api.query('node/' + str(Id[(vecteur_propre_P.tolist()).index(max(vecteur_propre_P))]))
-print(max(vecteur_propre_P),)
 
-# Affichage des données principales
+# Affichage des données principales de la node avec le plus grand vecteur propre
+print("\n"+"Valeur du noeud le plus important")
 print("Nom :", node.tags().get("name", "Pas de nom"))
 print("Latitude :", node.lat())
 print("Longitude :", node.lon())
 print("Tags :", node.tags())
+
+# Trouver les 10 plus petites valeurs avec leurs indices
+plus_grandes = heapq.nsmallest(10, enumerate(vecteur_propre_P), key=lambda x: x[1])
+for i in range(len(plus_grandes)):
+    print("Noeud en position : ", len(Id)-i, "  avec comme Identifiant dans la matrice : ",Id[plus_grandes[i][0]])
+
+# Recherche la node avec le plus petit vecteur propre
+api = Api()
+node2 = api.query('node/' + str(Id[(vecteur_propre_P.tolist()).index(min(vecteur_propre_P))]))
+
+# Affichage des données principales de la node avec le plus petit vecteur propre
+print("\n"+"Valeur du noeud le plus important")
+print("Nom :", node2.tags().get("name", "Pas de nom"))
+print("Latitude :", node2.lat())
+print("Longitude :", node2.lon())
+print("Tags :", node2.tags())
