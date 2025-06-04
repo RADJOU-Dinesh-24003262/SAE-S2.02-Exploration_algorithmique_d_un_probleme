@@ -22,34 +22,20 @@ def plus_grnd_val_propre(A, taille, e = 10**(-10)) :
     return norme(A @ X), X
 
 def calculer_Q(C, taille):
-    ## matrice n permettant de savoir le nombre de liens sortants de chaque page
+    # matrice n permettant de savoir le nombre de liens sortants de chaque page
     matrice_n = np.zeros(taille)
     for i in range(taille):
         for j in range(taille):
-            if C[i, j] == 1:
-                matrice_n[j] += 1
-    #print(matrice_n)
-    ## matrice Q permettant de savoir le poids de chaque lien
-    #Q = np.zeros((taille, taille))
-    #for i in range(taille):
-    #    for j in range(taille):
-    #        if matrice_n[j] != 0:
-    #            Q[i,j] = C[i,j] / matrice_n[j]
-    #    #Q[:, i] = A[:, i] / norme(A[:, i])
-    #return Q
-    n = C.shape[0]
-    Q = np.zeros_like(C, dtype=float)
-    for j in range(n):
-        col_sum = C[:, j].sum()
+            if C[i, j] > 0 : #and i != j:
+                matrice_n[j] += C[i, j]
 
-        if col_sum != 0:
-            Q[:, j] = C[:, j] / col_sum  # Normalisation
-        else:
-            Q[:, j] = 0
-        #    Q[:, j] = 1.0 / n  # Cas dangling
-        if matrice_n[j] != col_sum :
-            print("aaaa   ",col_sum, matrice_n[j])
-            #sys.exit()
+    # matrice Q permettant de savoir le poids de chaque lien
+    Q = np.zeros((taille, taille))
+    for i in range(taille):
+        for j in range(taille):
+            if matrice_n[j] != 0:
+                Q[i,j] = C[i,j] / matrice_n[j]
+        #Q[:, i] = A[:, i] / norme(A[:, i])
     return Q
 
 if __name__ == "__main__":
