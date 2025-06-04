@@ -48,18 +48,8 @@ if __name__ == "__main__":
     C = Matrice_adjacente.transpose()
     print("Matrice C :\n", C, "\n")
 
-    # Calcul de Q
-    Q = calculer_Q(C, taille)
-    #print("Matrice Q : \n" , Q, "\n")
-    print("Q :")
-    for row in Q:
-        for val in row:
-            print(f"{val:5.2}", end="  ")
-        print()
-
-    # Calcul de P
-    P = calculer_P(C, Q, taille, 0.85)
-    #print("Matrice P : \n", P, "\n")
+    # Calcul de P directement à partir de C
+    P = calculer_P(C, len(C), 0.85)
     print("P :")
     for row in P:
         for val in row:

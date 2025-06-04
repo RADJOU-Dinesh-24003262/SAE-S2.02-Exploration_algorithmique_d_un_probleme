@@ -18,11 +18,8 @@ from Exercice_2.Algo_puis_iter_V2 import calculer_P
 # Calcul de la transposée pour C
 C = M.transpose()
 
-# Calcul de Q
-Q = calculer_Q(C, len(C))
-
-# Calcul de P
-P = calculer_P(C, Q, len(C), 0.85)
+# Calcul de P directement à partir de C
+P = calculer_P(C, len(C), 0.85)
 
 # Calcul du score avec le vecteur propre de P
 valeur_propre_P, vecteur_propre_P = plus_grnd_val_propre(P, len(C), 1e-5)

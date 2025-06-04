@@ -49,19 +49,10 @@ if __name__ == "__main__":
     # Calcul de la transposée pour C
     C = Matrice_adjacente.transpose()
     print("Matrice C :\n", C, "\n")
-
-    # Calcul de Q
-    Q = calculer_Q(C, taille)
-    #print("Matrice Q : \n" , Q, "\n")
-    print("Q :")
-    for row in Q:
-        for val in row:
-            print(f"{val:5.2}", end="  ")
-        print()
     
     for i in [0, 0.2, 0.5, 0.85, 1]:
-        # Calcul de P
-        P = calculer_P(C, Q, taille, i)
+        # Calcul de P directement à partir de C
+        P = calculer_P(C, len(C), 0.85)
         print("Facteur d'amortissement alpha :", i)
         #print("P :")
         #for row in P:
