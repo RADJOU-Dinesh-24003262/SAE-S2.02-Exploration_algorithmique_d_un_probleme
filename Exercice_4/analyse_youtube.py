@@ -9,8 +9,8 @@ current_dir = os.path.dirname(__file__)
 parent_dir = os.path.abspath(os.path.join(current_dir, ".."))
 if parent_dir not in sys.path:
     sys.path.insert(0, parent_dir)
-from Exercice_1.programme1 import norme, plus_grnd_val_propre, calculer_Q
-from Exercice_2.programme3 import calculer_P
+from Exercice_1.Algo_puis_iter_V1 import norme, plus_grnd_val_propre, calculer_Q
+from Exercice_2.Algo_puis_iter_V2 import calculer_P
 
 
 if __name__ == "__main__":
