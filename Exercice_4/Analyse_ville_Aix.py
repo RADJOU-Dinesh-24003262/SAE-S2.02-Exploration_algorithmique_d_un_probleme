@@ -12,14 +12,31 @@ if parent_dir not in sys.path:
 from Exercice_1.Algo_puis_iter_V1 import norme, plus_grnd_val_propre, calculer_Q
 from Exercice_2.Algo_puis_iter_V2 import calculer_P
 
-# Calcul de la transposée pour C
-C = M.transpose()
+C = M
+alpha = 0.85
 
-# Calcul de Q
-Q = calculer_Q(C, len(C))
+n = C.shape[0]
+Q = np.zeros_like(C, dtype=float)
+for j in range(n):
+    col_sum = C[:, j].sum()
+    if col_sum != 0:
+        Q[:, j] = C[:, j] / col_sum  # Normalisation
+    else:
+        Q[:, j] = 1.0 / n  # Cas dangling
+n = C.shape[0]
+P = alpha * Q + (1 - alpha) / n * np.ones((n, n))
 
-# Calcul de P
-P = calculer_P(C, Q, len(C), 0.85)
+
+
+
+## Calcul de la transposée pour C
+#C = M.transpose()
+#
+## Calcul de Q
+#Q = calculer_Q(C, len(C))
+#
+## Calcul de P
+#P = calculer_P(C, Q, len(C), 0.85)
 
 # Calcul du score avec le vecteur propre de P
 valeur_propre_P, vecteur_propre_P = plus_grnd_val_propre(P, len(C), 1e-5)

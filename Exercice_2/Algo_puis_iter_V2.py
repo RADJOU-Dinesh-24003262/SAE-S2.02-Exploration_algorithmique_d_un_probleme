@@ -9,23 +9,23 @@ if parent_dir not in sys.path:
     sys.path.insert(0, parent_dir)
 from Exercice_1.Algo_puis_iter_V1 import norme, plus_grnd_val_propre, calculer_Q
 
-
-
 def calculer_P(C, M, taille, alpha):
-    # matrice n permettant de savoir le nombre de liens sortants de chaque page
-    matrice_n = np.zeros(taille)
-    for i in range(taille):
-        for j in range(taille):
-            if C[i, j] == 1:
-                matrice_n[j] += 1
-
-    P = np.zeros((taille, taille))
-    for i in range(taille):
-        for j in range(taille):
-            if matrice_n[j] != 0:
-                P[i, j] = alpha*M[i,j] + (1 - alpha) / taille
-            else:
-                P[i, j] = 1 / taille
+    ## matrice n permettant de savoir le nombre de liens sortants de chaque page
+    #matrice_n = np.zeros(taille)
+    #for i in range(taille):
+    #    for j in range(taille):
+    #        if C[i, j] == 1:
+    #            matrice_n[j] += 1
+    #P = np.zeros((taille, taille))
+    #for i in range(taille):
+    #    for j in range(taille):
+    #        if matrice_n[j] != 0:
+    #            P[i, j] = alpha*M[i,j] + (1 - alpha) / taille
+    #        else:
+    #            P[i, j] = 1 / taille
+    #return P
+    n = C.shape[0]
+    P = alpha * Q + (1 - alpha) / n * np.ones((n, n))
     return P
 
 if __name__ == "__main__":
