@@ -19,6 +19,7 @@ Ainsi nous pouvons remarquer :
 où Q = A, r = X et λ = 1 (r est un vecteur propre de Q).
 La résolution de cette équation est un cas particulier de l'algorithme de la puissance itérée où nous cherchons à calculer le vecteur propre associé à la valeur propre λ = 1.
 Ainsi, nous pouvons appliquer l'algorithme de la puissance itérée pour calculer le score des pages web.
+De plus, étant donné que λ = 1, nous pouvons supposer que la matrice est stochastique. 
 
 ## Question 3 :
 Nous avons ce vecteur de scores, dans l'ordre des pages de 1 à 14:

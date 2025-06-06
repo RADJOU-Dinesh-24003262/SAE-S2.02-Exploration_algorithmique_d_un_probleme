@@ -60,5 +60,7 @@ if __name__ == "__main__":
         valeur_propre_P, vecteur_propre_P = plus_grnd_val_propre(P, taille, 1e-10)
         r = vecteur_propre_P
 
+        print("Score normalise: ",r/r.sum())
+
         #Verification
         print("marge d'erreur :", norme((P @ r) - r))
