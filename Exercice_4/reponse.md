@@ -4,7 +4,7 @@
 
 
 ## *Question2 :*
-
+# à changer iportant, la transposee
 ### *Réseau routier : Gaston Berger*
 
 Lors de l'analyse des données de la matrice du réseaux routier de Gaston Berger, nous avons obtenue ses valeurs :
